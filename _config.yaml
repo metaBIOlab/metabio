@@ -4,17 +4,16 @@
 title: metaBio lab
 description: We are a neurosciences lab at a Physics Institute. Working with theoretical biology and experimental mathematics lab.
 logo: images/LogometaBio.jpg
-logo-text: false
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /metabio
+baseurl: /lab-website-template
 
 # site social media and other links
 links:
   email: jane.smith@your-lab.com
   google-scholar: Bruno Mota
   github: your-lab
-  twitter: @metaBIOlab
+  twitter: metaBIOlab
   instagram: YourLabHandle
   youtube: YourLabChannel
 
