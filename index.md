@@ -2,10 +2,10 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# metaBio
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+We are a neurosciences lab at a Physics Institute. Working with theoretical biology and experimental mathematics lab.
+Today, our multidisciplinary team works with mainly on cortical folding models: their implications for cortical development and evolution in mammals, and applications for human health and disease.
   
 {%
   include link.html
@@ -34,8 +34,7 @@ Spend less time reinventing the wheel, and more time running your lab.
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Today, our multidisciplinary team works with mainly on cortical folding models: their implications for cortical development and evolution in mammals, and applications for human health and disease.
 
 [See what we've published &nbsp;→](research)
 {:.center}
@@ -43,15 +42,14 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/rh.pialmesh3.png"
   link="research"
   headline="Our Research"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We are creating a lot of good and cool stuff, wait for it.
 
 [See our resources &nbsp;→](resources)
 {:.center}
@@ -66,7 +64,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are an very special team, trully multidisciplinary focused on solving a big question. Our PI, Bruno Mota has a Physics degree with masters and PhD in Astrophysics. We current have a physicist Postdoc, Victor B. Mello; two PhDs: Fernanda de Moraes (medical physicist) and Kamilla Souza (biologist); one Physics Master Degree student, Heitor Gessner...
 
 [Meet our team &nbsp;→](team)
 {:.center}
