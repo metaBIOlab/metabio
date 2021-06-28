@@ -1,11 +1,12 @@
-- id: doi:10.1016/j.csbj.2020.05.017
+- id: doi:https://doi.org/10.1016/j.neuroimage.2020.117546
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
+  date: 2021-2-1
   extra-links:
     - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
+      link: https://www.sciencedirect.com/science/article/pii/S1053811920310314
   tags:
-    - knowledge graphs
+    - brain morphology
+    - cortical folding
 
 - id: doi:10.1371/journal.pcbi.1007128
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
