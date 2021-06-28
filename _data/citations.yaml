@@ -1,19 +1,29 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:https://doi.org/10.1016/j.neuroimage.2020.117546
+  title: Independent components of human brain morphology
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
+  - Yujiang Wang
+  - Karoline Leiberg
+  - Tobias Ludwig
+  - Bethany Little
+  - Joe H Necus
+  - Gavin Winston
+  - Sjoerd B Vos
+  - Jane de Tisi
+  - John S Duncan
+  - Peter N Taylor
+  - Bruno Mota
+  publisher: NeuroImage
+  date: '2021-02-01'
+  link: https://doi.org/gkx8nh
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   extra-links:
   - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+    link: https://www.sciencedirect.com/science/article/pii/S1053811920310314
   tags:
-  - knowledge graphs
+  - brain morphology
+  - cortical folding
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
