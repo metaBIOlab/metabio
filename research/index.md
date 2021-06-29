@@ -7,10 +7,14 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Our teams work on a few projects related to physics and mathematics applied to neuroscience: 
+- Cortical folding universal rule, its universality, and derived variables
+- Mammals brain morphology
+- Humans brain morphology
+- Computational research on surface-based methods for quantifying morphological measurements.
+
+Here you find all the most important publications, including our team contributions to relevant works. Please see the complete list of publications from Bruno Mota at his [Lattes](http://lattes.cnpq.br/4356558822177287) or [Google Scholar](https://scholar.google.com.br/citations?user=Q40IwXQAAAAJ&hl=pt-BR&oi=ao).
 
 {% include section.html %}
 
