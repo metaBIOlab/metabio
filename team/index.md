@@ -46,6 +46,21 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 {:.center}
 
+{% include section.html %}
+
+## Collaborators
+
+we would be nothing without them. Here are our dear collaborators.
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: collaborator"
+%}
+{:.center}
+
+
 {% include section.html background="images/banner.jpg" dark=true%}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
