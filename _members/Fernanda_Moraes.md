@@ -8,10 +8,10 @@ aliases:
   - F Moraes
   - MORAES, F. H. P.
 links:
-#  home-page: fbaggins.com
+  home-page: http://lattes.cnpq.br/8205806209163121
   email: fernanda.hansen@idor.org
   twitter: hansenmoraes
-  lattes: http://lattes.cnpq.br/8205806209163121
+
 ---
 
 Hi, I am Fernanda Hansen P. de Moraes, a PhD student at [Instituto D'Or de Pesquisa e Ensino, IDOR](https://www.rededorsaoluiz.com.br/instituto/idor) supervised by Bruno Mota and [Fernanda Tovar-Moll](https://www.tovar-moll.com/).
