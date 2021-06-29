@@ -69,7 +69,22 @@
   - type: source
     link: https://doi.org/10.5281/zenodo.2595060
   tags:
-  - compared neuroanatomy
+  - brain morphology
+  - cortical folding
+- id: doi:10.1073/pnas.1610175113
+  title: Universality in human cortical folding in health and disease
+  authors:
+  - Yujiang Wang
+  - Joe Necus
+  - Marcus Kaiser
+  - Bruno Mota
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2016-11-08'
+  link: https://doi.org/ghcphr
+  extra-links:
+  - type: journal
+    link: https://www.pnas.org/content/113/45/12820.short
+  tags:
   - brain morphology
   - cortical folding
 - id: doi:10.1126/science.aaa9101
