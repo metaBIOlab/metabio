@@ -7,6 +7,7 @@ aliases:
   - F. H. P. Moraes
   - F Moraes
   - MORAES, F. H. P.
+  - Fernanda Hansen Pacheco de Moraes
 links:
   home-page: http://lattes.cnpq.br/8205806209163121
   email: fernanda.hansen@idor.org
