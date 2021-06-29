@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: metaBio lab
 description: We are a neurosciences lab at a Physics Institute. Working with theoretical biology and experimental mathematics lab.
-logo: images/LogometaBio_preto.jpg
+logo: images/LogometaBio_preto.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /lab-website-template
