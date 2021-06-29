@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# metaBio - Laboratório de Biologia Teórica e Matemática Experimental
+# metaBIO - Laboratório de Biologia Teórica e Matemática Experimental
 
 We are a neurosciences lab at a Physics Institute. Working with theoretical biology and experimental mathematics lab.
 Today, our multidisciplinary team works with mainly on cortical folding models: their implications for cortical development and evolution in mammals, and applications for human health and disease.
@@ -72,7 +72,7 @@ We are an very special team, trully multidisciplinary focused on solving big que
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpeg"
   link="team"
   headline="Our Team"
   text=text
