@@ -59,9 +59,9 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  image1=https://serrapilheira.org/wp-content/uploads/2020/06/marca-600_.png
+  link1="https://serrapilheira.org/"
+  tooltip1="Instituto Serrapilheira"
 
   image2="images/photo.jpg"
   link2="https://nasa.gov/"
