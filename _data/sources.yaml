@@ -1,4 +1,4 @@
-- id: doi:https://doi.org/10.1016/j.neuroimage.2020.117546
+- id: doi:10.1016/j.neuroimage.2020.117546
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811920310314-gr3_lrg.jpg
   date: 2021-2-1
   extra-links:
@@ -8,27 +8,34 @@
     - brain morphology
     - cortical folding
 
-- id: doi:10.1371/journal.pcbi.1007128
+- id: 10.1126/science.aaa9101
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
   extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+    - type: journal
+      link: https://science.sciencemag.org/content/349/6243/74.abstract
+  tags:
+    - compared neuroanatomy
+    - brain morphology
+    - cortical folding 
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1073/pnas.1716956116
+  image: https://www.pnas.org/content/pnas/116/30/15253/F7.medium.gif
   extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
+    - type: journal
+      link: https://www.pnas.org/content/116/30/15253.short
+    tags:
+    - compared neuroanatomy
+    - brain morphology
+    - cortical folding 
+
+- id: doi:10.1038/s42003-019-0421-7
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs42003-019-0421-7/MediaObjects/42003_2019_421_Fig1_HTML.png?as=webp
+  extra-links:
+    - type: journal
+      link: https://www.pnas.org/content/116/30/15253.short
     - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
-    - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
+      link: https://doi.org/10.5281/zenodo.2595060
+    tags:
+    - compared neuroanatomy
+    - brain morphology
+    - cortical folding 
