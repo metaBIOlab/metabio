@@ -16,7 +16,4 @@ links:
 ---
 
 Description here!!
-Description here!!
-Description here!!
-Description here!!
 
