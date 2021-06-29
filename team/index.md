@@ -85,7 +85,7 @@ We would be nothing without them, our partners and collaborators.
 {%
   include gallery.html
   
-  image1="images/cnnplab.png"
+  image1="images/cnnplab_menor.png"
   link1="https://sites.google.com/view/cnnp-lab/"
   tooltip1="Computational Neurology, Neuroscience & Psychiatry Lab, CNNP - Newcastle University, Newcastle upon Tyne, UK"
   
