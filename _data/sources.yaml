@@ -9,7 +9,6 @@
     - cortical folding
 
 - id: doi:10.1126/science.aaa9101
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   extra-links:
     - type: journal
       link: https://science.sciencemag.org/content/349/6243/74.abstract
@@ -19,7 +18,6 @@
     - cortical folding 
 
 - id: doi:10.1073/pnas.1716956116
-  image: https://www.pnas.org/content/pnas/116/30/15253/F7.medium.gif
   extra-links:
     - type: journal
       link: https://www.pnas.org/content/116/30/15253.short
