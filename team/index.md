@@ -7,12 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-{% include section.html %}
+We are an very special team, trully multidisciplinary focused on solving big questions.
 
 {%
   include list.html
@@ -20,35 +15,43 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   component="portrait"
   filters="role: pi"
 %}
+{:.center}
+
+{% include section.html %}
+## Current team:
+### Postdoc:
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: postdoc"
 %}
+{:.center}
+
+### PhD:
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: phd"
 %}
+{:.center}
+
+### Masters:
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: masters"
 %}
+{:.center}
+
+### Undergrads:
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: undergrad"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: collaborator"
 %}
 {:.center}
 
@@ -67,8 +70,17 @@ Check for updates! Soon.
 
 {% include section.html %}
 
-## Partners
+## Partners and collaborators
 We would be nothing without them, our partners and collaborators.
+{:.center}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: collaborator"
+%}
+{:.center}
 
 {%
   include gallery.html
@@ -82,6 +94,7 @@ We would be nothing without them, our partners and collaborators.
   tooltip2="Instituto D'Or de Pesquisa e Ensino - IDOR, Rio de Janeiro, Brasil"
 
 %}
+{:.center}
 
 ## Funding
 
@@ -99,7 +112,4 @@ Our work is made possible by funding from several organizations.
   link2="https://www.gov.br/cnpq/pt-br"
   tooltip2="Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq"
 %}
-
-
-{% include section.html %}
-
+{:.center}
