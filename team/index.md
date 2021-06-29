@@ -96,7 +96,7 @@ We would be nothing without them, our partners and collaborators.
 
 
 {%
-  image3="images/logo-idor.svg"
+  image3="images/logoidor.png"
   link3="https://www.rededorsaoluiz.com.br/instituto/idor"
   tooltip3="Instituto D'Or de Pesquisa e Ensino - IDOR"
 %}
