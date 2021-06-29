@@ -2,7 +2,7 @@
 name: Frodo Baggins
 image: images/member.jpg
 description: Collaborator
-role: programmer
+role: undergrad
 aliases:
   - F. Baggins
   - F Baggins
@@ -12,5 +12,7 @@ links:
   github: frodo-baggins
 ---
 
-Hello, we are presenting our new member, Frodo.
-Frodo is a nice guy from the Lord of the Rings (a very big book).
+Hello, we are presenting our new undergrad, Frodo.
+Frodo is a nice guy from the Lord of the Rings (a very big book). He lives at The Shire.
+
+Frodo enjoys suuper long walks.
