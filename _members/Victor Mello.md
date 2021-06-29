@@ -1,6 +1,6 @@
 ---
 name: Victor Barreto Braga Mello
-image: images/foto34_menor.jpg
+image: images/member.jpg
 description: PhD Student
 role: phd
 aliases:
