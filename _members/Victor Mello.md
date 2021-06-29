@@ -12,7 +12,7 @@ aliases:
   - Mello, V.
 links:
   link: http://lattes.cnpq.br/6066129105848114
-  email: email
+  email: email here
 
 ---
 
