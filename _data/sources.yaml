@@ -7,12 +7,12 @@
   tags:
     - brain morphology
     - cortical folding
-    
-- id: doi:10.1126/science.aaa9101
-  date: 2015-7-3
+
+- id: doi:10.1073/pnas.1716956116
+  date: 2019-7-8
   extra-links:
     - type: journal
-      link: https://science.sciencemag.org/content/349/6243/74.abstract
+      link: https://www.pnas.org/content/116/30/15253.short
   tags:
     - compared neuroanatomy
     - brain morphology
@@ -25,6 +25,16 @@
       link: https://www.nature.com/articles/s42003-019-0421-7
     - type: source
       link: https://doi.org/10.5281/zenodo.2595060
+  tags:
+    - compared neuroanatomy
+    - brain morphology
+    - cortical folding 
+
+- id: doi:10.1126/science.aaa9101
+  date: 2015-7-3
+  extra-links:
+    - type: journal
+      link: https://science.sciencemag.org/content/349/6243/74.abstract
   tags:
     - compared neuroanatomy
     - brain morphology
