@@ -50,7 +50,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 ## Collaborators
 
-we would be nothing without them. Here are our dear collaborators.
+We would be nothing without them. Here are our dear collaborators.
 
 {%
   include list.html
