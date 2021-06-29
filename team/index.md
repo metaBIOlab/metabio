@@ -79,11 +79,25 @@ Our work is made possible by funding from several organizations.
   link1="https://serrapilheira.org/"
   tooltip1="Instituto Serrapilheira"
 
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
+  image2="images/cnpq.jpg"
+  link2="https://www.gov.br/cnpq/pt-br"
+  tooltip2="Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq"
 
   image3="images/photo.jpg"
   link3="https://nasa.gov/"
   tooltip3="Cool Initiative"
 %}
+
+
+{% include section.html %}
+
+## Partners
+We would be nothing without them, our partners and collaborators.
+
+
+{%
+  image3="https://idorwp.wpengine.com/wp-content/uploads/sites/44/2019/04/logo-idor.svg"
+  link3="https://www.rededorsaoluiz.com.br/instituto/idor"
+  tooltip3="Instituto D'Or de Pesquisa e Ensino - IDOR"
+%}
+
