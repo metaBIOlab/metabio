@@ -67,6 +67,22 @@ Check for updates! Soon.
 
 {% include section.html %}
 
+## Partners
+We would be nothing without them, our partners and collaborators.
+
+{%
+  include gallery.html
+  
+  image1="images/cnnplab.png"
+  link1="https://sites.google.com/view/cnnp-lab/"
+  tooltip1="Computational Neurology, Neuroscience & Psychiatry Lab, CNNP - Newcastle University, Newcastle upon Tyne, UK"
+  
+  image2="images/logoidor.png"
+  link2="https://www.rededorsaoluiz.com.br/instituto/idor"
+  tooltip2="Instituto D'Or de Pesquisa e Ensino - IDOR, Rio de Janeiro, Brasil"
+
+%}
+
 ## Funding
 
 Our work is made possible by funding from several organizations.
@@ -86,20 +102,4 @@ Our work is made possible by funding from several organizations.
 
 
 {% include section.html %}
-
-## Partners
-We would be nothing without them, our partners and collaborators.
-
-{%
-  include gallery.html
-  
-  image1="images/cnnplab.png"
-  link1="https://sites.google.com/view/cnnp-lab/"
-  tooltip1="Computational Neurology, Neuroscience & Psychiatry Lab, CNNP - Newcastle University, Newcastle upon Tyne, UK"
-  
-  image2="images/logoidor.png"
-  link2="https://www.rededorsaoluiz.com.br/instituto/idor"
-  tooltip2="Instituto D'Or de Pesquisa e Ensino - IDOR, Rio de Janeiro, Brasil"
-
-%}
 
