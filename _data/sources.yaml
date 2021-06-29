@@ -2,7 +2,7 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811920310314-gr3_lrg.jpg
   date: 2021-2-1
   extra-links:
-    - type: manubot
+    - type: journal
       link: https://www.sciencedirect.com/science/article/pii/S1053811920310314
   tags:
     - brain morphology
