@@ -7,8 +7,8 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+We are located in the Instituto de Física at the Universidade Federal do Rio de Janeiro. Currently working from home.
+Be safe and use masks!
 
 {%
   include link.html
