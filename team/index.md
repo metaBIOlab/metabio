@@ -82,10 +82,6 @@ Our work is made possible by funding from several organizations.
   image2="images/cnpq.jpg"
   link2="https://www.gov.br/cnpq/pt-br"
   tooltip2="Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq"
-
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
 %}
 
 
@@ -97,13 +93,13 @@ We would be nothing without them, our partners and collaborators.
 {%
   include gallery.html
   
-  image3="images/cnnplab.png"
-  link3="https://sites.google.com/view/cnnp-lab/"
-  tooltip3="Computational Neurology, Neuroscience & Psychiatry Lab, CNNP - Newcastle University, Newcastle upon Tyne, UK"
+  image1="images/cnnplab.png"
+  link1="https://sites.google.com/view/cnnp-lab/"
+  tooltip1="Computational Neurology, Neuroscience & Psychiatry Lab, CNNP - Newcastle University, Newcastle upon Tyne, UK"
   
-  image4="images/logoidor.png"
-  link4="https://www.rededorsaoluiz.com.br/instituto/idor"
-  tooltip4="Instituto D'Or de Pesquisa e Ensino - IDOR, Rio de Janeiro, Brasil"
+  image2="images/logoidor.png"
+  link2="https://www.rededorsaoluiz.com.br/instituto/idor"
+  tooltip2="Instituto D'Or de Pesquisa e Ensino - IDOR, Rio de Janeiro, Brasil"
 
 %}
 
