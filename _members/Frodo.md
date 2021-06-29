@@ -1,7 +1,7 @@
 ---
 name: Frodo Baggins
 image: images/member.jpg
-description: Collaborator
+description: Undergraduate Exchange Student
 role: undergrad
 aliases:
   - F. Baggins
