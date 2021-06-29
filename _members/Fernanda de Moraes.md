@@ -1,6 +1,6 @@
 ---
 name: Fernanda H. P. de Moraes
-image: images/member.jpg
+image: images/foto34.jpeg
 description: PhD Student
 role: phd
 aliases:
@@ -15,7 +15,7 @@ links:
 
 ---
 
-Hi, I am Fernanda Hansen P. de Moraes, a PhD student at [Instituto D'Or de Pesquisa e Ensino, IDOR](https://www.rededorsaoluiz.com.br/instituto/idor) supervised by Bruno Mota and [Fernanda Tovar-Moll](https://www.tovar-moll.com/).
+Hello, I am Fernanda Hansen P. de Moraes, a PhD student at [Instituto D'Or de Pesquisa e Ensino, IDOR](https://www.rededorsaoluiz.com.br/instituto/idor) supervised by Bruno Mota and [Fernanda Tovar-Moll](https://www.tovar-moll.com/).
 I have a Bsc in Medical Physics (UFRJ/BEUTH) and working experience in Imaging Physics.
 
 I am currently working with Cortical Folding patterns in humans. We verify its universality (and escaping) across healthy aging, neurodegenerative pathologies (Alzheimer's Disease and Mild Cognitive Impairment), and congenital malformations (Corpus Callosum Disgenesis).
