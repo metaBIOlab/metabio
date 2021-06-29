@@ -1,8 +1,8 @@
 ---
 name: Victor Barreto Braga Mello
 image: images/member.jpg
-description: PhD Student
-role: phd
+description: Postdoctoral Researcher
+role: postdoc
 aliases:
   - Victor Barreto Braga Mello
   - Victor B. B. Mello
