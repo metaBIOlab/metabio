@@ -94,8 +94,9 @@ Our work is made possible by funding from several organizations.
 ## Partners
 We would be nothing without them, our partners and collaborators.
 
-
 {%
+  include gallery.html
+  
   image3="images/logoidor.png"
   link3="https://www.rededorsaoluiz.com.br/instituto/idor"
   tooltip3="Instituto D'Or de Pesquisa e Ensino - IDOR"
