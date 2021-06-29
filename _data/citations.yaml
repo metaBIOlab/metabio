@@ -24,18 +24,29 @@
   tags:
   - brain morphology
   - cortical folding
-- id: doi:10.1126/science.aaa9101
-  title: Cortical folding scales universally with surface area and thickness, not
-    number of neurons
+- id: doi:10.1073/pnas.1716956116
+  title: White matter volume and white/gray matter ratio in mammalian species as a
+    consequence of the universal scaling of cortical folding
   authors:
   - Bruno Mota
+  - Sandra E. Dos Santos
+  - Lissa Ventura-Antunes
+  - "D\xE9bora Jardim-Messeder"
+  - Kleber Neves
+  - Rodrigo S. Kazu
+  - Stephen Noctor
+  - Kelly Lambert
+  - Mads F. Bertelsen
+  - Paul R. Manger
+  - Chet C. Sherwood
+  - Jon H. Kaas
   - Suzana Herculano-Houzel
-  publisher: Science
-  date: '2015-07-03'
-  link: https://doi.org/f7hvpc
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2019-07-08'
+  link: https://doi.org/ggxdth
   extra-links:
   - type: journal
-    link: https://science.sciencemag.org/content/349/6243/74.abstract
+    link: https://www.pnas.org/content/116/30/15253.short
   tags:
   - compared neuroanatomy
   - brain morphology
@@ -57,6 +68,22 @@
     link: https://www.nature.com/articles/s42003-019-0421-7
   - type: source
     link: https://doi.org/10.5281/zenodo.2595060
+  tags:
+  - compared neuroanatomy
+  - brain morphology
+  - cortical folding
+- id: doi:10.1126/science.aaa9101
+  title: Cortical folding scales universally with surface area and thickness, not
+    number of neurons
+  authors:
+  - Bruno Mota
+  - Suzana Herculano-Houzel
+  publisher: Science
+  date: '2015-07-03'
+  link: https://doi.org/f7hvpc
+  extra-links:
+  - type: journal
+    link: https://science.sciencemag.org/content/349/6243/74.abstract
   tags:
   - compared neuroanatomy
   - brain morphology
