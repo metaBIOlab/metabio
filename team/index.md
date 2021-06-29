@@ -44,14 +44,6 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   component="portrait"
   filters="role: undergrad"
 %}
-{:.center}
-
-{% include section.html %}
-
-## Collaborators
-
-We would be nothing without them. Here are our dear collaborators.
-
 {%
   include list.html
   data="members"
@@ -60,11 +52,9 @@ We would be nothing without them. Here are our dear collaborators.
 %}
 {:.center}
 
-
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Check for updates! Soon.
 
 {%
   include link.html
