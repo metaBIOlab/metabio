@@ -64,7 +64,7 @@ We are creating a lot of good and cool stuff, wait for it.
 %}
 
 {% capture text %}
-We are an very special team, trully multidisciplinary focused on solving a big question. Our PI, Bruno Mota has a Physics degree with masters and PhD in Astrophysics. We current have a physicist Postdoc, Victor B. Mello; two PhDs: Fernanda de Moraes (medical physicist) and Kamilla Souza (biologist); one Physics Master Degree student, Heitor Gessner...
+We are an very special team, trully multidisciplinary focused on solving big questions. Our PI, Bruno Mota has a Physics degree with masters and PhD in Astrophysics. We current have a physicist Postdoc, Victor B. Mello; two PhDs: Fernanda de Moraes (medical physicist) and Kamilla Souza (biologist); one Physics Master Degree student, Heitor Gessner...
 
 [Meet our team &nbsp;→](team)
 {:.center}
