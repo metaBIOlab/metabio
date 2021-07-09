@@ -108,7 +108,7 @@ Our work is made possible by funding from several organizations.
   link1="https://serrapilheira.org/"
   tooltip1="Instituto Serrapilheira"
 
-  image2="images/cnpq.jpg"
+  image2="images/cnpq-logo-7.png"
   link2="https://www.gov.br/cnpq/pt-br"
   tooltip2="Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq"
 %}
