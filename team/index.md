@@ -104,7 +104,7 @@ Our work is made possible by funding from several organizations.
 {%
   include gallery.html
 
-  image1="https://upload.wikimedia.org/wikipedia/commons/a/a2/Instituto_Serrapilheira_logo.png"
+  image1="images/serrapilheira.png"
   link1="https://serrapilheira.org/"
   tooltip1="Instituto Serrapilheira"
 
