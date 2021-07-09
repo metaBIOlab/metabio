@@ -88,12 +88,12 @@ We would be nothing without them, our partners and collaborators.
   image1="images/cnnplab_menor.png"
   link1="https://sites.google.com/view/cnnp-lab/"
   tooltip1="Computational Neurology, Neuroscience & Psychiatry Lab, CNNP - Newcastle University, Newcastle upon Tyne, UK"
-  width="150px"
+  width="50px"
   
   image2="images/logoidor.png"
   link2="https://www.rededorsaoluiz.com.br/instituto/idor"
   tooltip2="Instituto D'Or de Pesquisa e Ensino - IDOR, Rio de Janeiro, Brasil"
-  width="150px"
+  width="50px"
 %}
 {:.center}
 
@@ -108,11 +108,11 @@ Our work is made possible by funding from several organizations.
   image1="images/serrapilheira.png"
   link1="https://serrapilheira.org/"
   tooltip1="Instituto Serrapilheira"
-  width="150px"
+  width="50px"
 
   image2="images/cnpq-logo-7.png"
   link2="https://www.gov.br/cnpq/pt-br"
   tooltip2="Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq"
-  width="150px"
+  width="50px"
 %}
 {:.center}
