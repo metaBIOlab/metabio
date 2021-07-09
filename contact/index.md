@@ -43,13 +43,13 @@ Be safe and use masks!
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-Instituto de Física
-Centro de Tecnologia - Bloco A
-Universidade Federal do Rio de Janeiro
-Av. Athos da Silveira Ramos, 149
-Cidade Universitária - Rio de Janeiro - RJ
-CEP: 21941-972
-Brasil
+Instituto de Física \\
+Centro de Tecnologia - Bloco A \\
+Universidade Federal do Rio de Janeiro \\
+Av. Athos da Silveira Ramos, 149 \\
+Cidade Universitária - Rio de Janeiro - RJ \\
+CEP: 21941-972 \\
+Brasil \\
 {:.center}
 
 {% capture col1 %}
