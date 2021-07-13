@@ -16,7 +16,7 @@
   group: more
   image: images/photo.jpg
   link: https://youtube.com/playlist?list=PLoL7-JBnhjz8ttwCrz11qWjrGjefsUYVS
-  description: Curso em português de Programação em Python por Victor B. B. Mello.
+  description: Curso em português de Programação em Python por [Victor B. B. Mello](https://metabio.netlify.app/members/victor-mello.html).
   repo: greenelab/lab-website-template
 
 - name: Cool Web App
