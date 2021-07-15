@@ -51,14 +51,14 @@ Today, our multidisciplinary team works with mainly on cortical folding models: 
 {% capture text %}
 We are creating a lot of good and cool stuff, wait for it.
 
-[See our resources &nbsp;→](resources)
+[See our resources &nbsp;→](tools)
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
   image="images/photo.jpg"
-  link="resources"
+  link="tools"
   headline="Our Resources"
   text=text
 %}
