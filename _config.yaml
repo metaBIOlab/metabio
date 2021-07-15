@@ -6,7 +6,7 @@ description: We are a neurosciences lab at a Physics Institute. Working with the
 logo: images/LogometaBio_preto.png
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: images/LogometaBio_preto.png
+baseurl: /lab-website-template
 
 # site social media and other links
 links:
