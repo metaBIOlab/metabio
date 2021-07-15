@@ -10,9 +10,9 @@ baseurl: /lab-website-template
 
 # site social media and other links
 links:
-  # email: jane.smith@your-lab.com
+  email: jane.smith@your-lab.com
   google-scholar: Bruno Mota
-  # github: your-lab
+  github: your-lab
   twitter: metaBIOlab
   youtube: YourLabChannel
 
