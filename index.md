@@ -51,7 +51,7 @@ Today, our multidisciplinary team works with mainly on cortical folding models: 
 {% capture text %}
 We are creating a lot of good and cool stuff, wait for it.
 
-[See our resources &nbsp;→](tools)
+[See our resources and tools &nbsp;→](tools)
 {:.center}
 {% endcapture %}
 
@@ -59,7 +59,7 @@ We are creating a lot of good and cool stuff, wait for it.
   include feature.html
   image="images/photo.jpg"
   link="tools"
-  headline="Our Resources"
+  headline="Our Resources and tools"
   text=text
 %}
 
