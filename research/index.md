@@ -14,7 +14,7 @@ Our teams work on a few projects related to physics and mathematics applied to n
 - Humans brain morphology
 - Computational research on surface-based methods for quantifying morphological measurements.
 
-Here you find all the most important publications, including our team contributions to relevant works. Please see the complete list of publications from Bruno Mota at his [Lattes](http://lattes.cnpq.br/4356558822177287) or [Google Scholar](https://scholar.google.com.br/citations?user=Q40IwXQAAAAJ&hl=pt-BR&oi=ao).
+Here you find all the most important publications, including our team contributions to relevant works. Please see the complete list of publications from Bruno Mota at his [Lattes](https://lattes.cnpq.br/4356558822177287) or [Google Scholar](https://scholar.google.com.br/citations?user=Q40IwXQAAAAJ&hl=pt-BR&oi=ao).
 
 {% include section.html %}
 
