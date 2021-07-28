@@ -7,10 +7,9 @@ nav:
 
 # <i class="fas fa-tools"></i>Resources and Tools
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Resources and tools from our group. Here you will also find public videos of evetns our collaborators engaged.
+
+Please fell free to get in touch with any of us regarding this material.
 
 {% include search-info.html %}
 
@@ -25,3 +24,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 ## More
 
 {% include list.html component="card" data="tools" filters="group: more" style="small" %}
+
+## Events
+
+{% include list.html component="card" data="events" filters="group: events" style="small" %}
