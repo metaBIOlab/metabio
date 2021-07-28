@@ -9,6 +9,8 @@ nav:
 
 Resources and tools from our group. Here you will also find public videos of evetns our collaborators engaged.
 
+Since we are based in Brasil, we have most of our resources in portuguese. Codes will probably be in English. We included a notation to easy identification: [PT] for Portuguese and [EN] for English.
+
 Please fell free to get in touch with any of us regarding this material.
 
 {% include search-info.html %}
