@@ -1,0 +1,7 @@
+- name: II Congresso Nacional de Ligas de Anatomia Humana 2021 - Minicurso Neuroimagem
+  group: events
+  image: images/conlaah.png
+  link: https://youtu.be/vPBOveiEbBQ
+  description: Minicurso de neuroimagem para o II Congresso Nacional de Ligas de Anatomia Humana 2021. A doutorando Fernanda de Moraes apresentou técnicas de Investigação não-invasiva da morfometria cerebral por imagens de Ressonância Magnética e aplicações.
+  repo: greenelab/lab-website-template
+
