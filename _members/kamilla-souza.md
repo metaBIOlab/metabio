@@ -1,6 +1,6 @@
 ---
 name: Kamilla Souza
-image: images/member2.jpg
+image: 
 description: PhD Student
 role: phd
 aliases:
