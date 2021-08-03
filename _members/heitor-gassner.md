@@ -15,3 +15,4 @@ links:
 
 ---
 
+Msc student, IF/UFRJ 1st year, Funded by CAPES – Cortical reconstruction
