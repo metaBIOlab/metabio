@@ -1,6 +1,6 @@
 ---
 name: Christiane Barbosa
-image: 
+image: images/member2.jpg
 description: Undergrad Thesis
 role: undergrad
 aliases:
