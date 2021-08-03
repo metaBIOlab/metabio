@@ -15,3 +15,5 @@ links:
 
 ---
 
+PhD student, PCM/ICB/UFRJ 2rd year, funded by CNPq – Specimen collecting,
+cortical imaging and contour tracing, cell counting; runs collection network
