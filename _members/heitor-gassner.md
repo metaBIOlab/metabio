@@ -1,6 +1,6 @@
 ---
 name: Heitor Gassner
-image: 
+images/member2.jpg
 description: Msc Student
 role: masters
 aliases:
