@@ -17,15 +17,15 @@ Please fell free to get in touch with any of us regarding this material.
 
 {% include section.html %}
 
-## Featured
+## Channels
 
-{% include list.html component="card" data="tools" filters="group: featured" %}
+{% include list.html component="card" data="tools" filters="group: channels" %}
+
+## Datasets and Code repositories
+
+{% include list.html component="card" data="tools" filters="group: repositories" %}
 
 {% include section.html %}
-
-## More
-
-{% include list.html component="card" data="tools" filters="group: more" %}
 
 ## Events
 {% include list.html component="card" data="events" %}
