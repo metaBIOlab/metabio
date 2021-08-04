@@ -2,7 +2,7 @@
 title: Resources and Tools
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Software, datasets, events and more
 ---
 
 # <i class="fas fa-tools"></i>Resources and Tools
@@ -28,4 +28,4 @@ Please fell free to get in touch with any of us regarding this material.
 {% include list.html component="card" data="tools" filters="group: more" %}
 
 ## Events
-{% include list.html data="events" component="card" %}
+{% include list.html component="card" data="events" %}
