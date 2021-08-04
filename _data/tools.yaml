@@ -1,6 +1,6 @@
 - name: Youtube channel
   group: channel
-  image: images/photo.jpg
+  image: images/youtube.jpg
   link: https://www.youtube.com/channel/UC-0o7uNd6RMw0KQTOc_OMFw
   description: PT EN A YouTube channel with our lab seminar series.
   repo: greenelab/lab-website-template
@@ -14,14 +14,14 @@
 
 - name: Analysis pipeline to extract cortical morphology measures from Freesurfer for cortical folding analysis
   group: repository
-  image: images/photo.jpg
+  image: images/zenodo.jpg
   link: https://zenodo.org/record/3608675#.YQn_HnVKiV4
   description: Wang Y, Ludwig T, Mota B, _Analysis pipeline to extract cortical morphology measures from Freesurfer for cortical folding analysis_. 10.5281/zenodo.3608675
   repo: greenelab/lab-website-template
 
 - name: Cortical Folding Analysis Tools
   group: repository
-  image: images/photo.jpg
+  image: images/cfat.jpg
   link: https://github.com/cnnp-lab/CorticalFoldingAnalysisTools
   description: Wang Y, Muricy A, Necus J, Garside K, Ludwig T, Mota B _Cortical Folding Analysis Tools_
   repo: greenelab/lab-website-template
