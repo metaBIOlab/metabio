@@ -12,13 +12,6 @@
   description: **PT** Instagram channel about cetaceans, run by one of our undergrads, Christiane Barbosa.
   repo: greenelab/lab-website-template
 
-- name: Programação em Python
-  group: channel
-  image: images/photo.jpg
-  link: https://youtube.com/
-  description: **PT** Curso em português de Programação em Python por Victor B. B. Mello.
-  repo: greenelab/lab-website-template
-
 - name: Analysis pipeline to extract cortical morphology measures from Freesurfer for cortical
 folding analysis
   group: repository
