@@ -1,5 +1,6 @@
 - name: Técnicas de Investigação não-invasiva da morfometria cerebral por imagens de Ressonância Magnética e aplicações.
   group: events
+  date: 24 jul 2021
   image: images/conlaah.png
   link: https://youtu.be/vPBOveiEbBQ
   description: [PT] [Fernanda de Moraes](https://metabio.netlify.app/members/fernanda-moraes.html) para o Minicurso de neuroimagem para o II Congresso Nacional de Ligas de Anatomia Humana 2021 (24 jul 2021). 
@@ -7,13 +8,15 @@
 
 - name: How to prepare a SciComm Presentation – BioRoom (witth Dr. Tahira Anwar)
   group: events
+  date: 23 jan 2020
   image: images/photo.jpg
   link: https://www.youtube.com/watch?v=tSfQpazjWyw
-  description: [EN] [Bruno Mota](https://metabio.netlify.app/members/bruno-mota.html) in How to prepare a SciComm Presentation – BioRoom (witth Dr. Tahira Anwar).
+  description: [EN] [Bruno Mota](https://metabio.netlify.app/members/bruno-mota.html) in _How to prepare a SciComm Presentation_ for the BioRoom with Dr. Tahira Anwar.
   repo: greenelab/lab-website-template
   
 - name: Como o cérebro se dobra? Universalidade, leis de escala e estrutura fractal na morfologia do córtex cerebral
   group: events
+  date: 12 nov 2020
   image: images/photo.jpg
   link: https://www.wolfram.com/broadcast/video.php?c=104&v=3349&disp=grid&&ob=date&o=DESC
   description: [PT] [Bruno Mota](https://metabio.netlify.app/members/bruno-mota.html) para Virtual Wolfram Technology Conference Brasil (12 nov 2020)
