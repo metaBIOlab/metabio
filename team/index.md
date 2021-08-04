@@ -84,64 +84,87 @@ We would be nothing without them, our partners and collaborators.
 
 <br>
 <br>
+<br>
 ### Neurodevelopment
+<br>
+<br>
 **UFRJ – Universidade Federal do Rio de Janeiro**
 - Prof. Patrícia Garcez, ICB
+<br>
 <br>
 **University of Oxford (UK)**
 - Prof. Zoltan Molnar, DPAG
 - Prof. Philip Maini, Institute of Mathematics
 <br>
+<br>
 **University of Swansea (UK)**
 - Dr. Noemi Picco
+<br>
 <br>
 **IPRM University of California - Davis (USA)**
 - Prof Steven Noctor
 - Dr. Carmen Falcone
 <br>
 <br>
+<br>
 ### Neuromorphology
+<br>
+<br>
 **Newcastle University (UK)**
 - Dr. Yujiang Wang, School of Computing Science
 - Dr. Colline Poirier, Institute of Neuroscience
 <br>
+<br>
 **University of Nottingham (UK)**
 - Prof. Chris Madan, Department of Psychology
+<br>
 <br>
 **Hokkaido University (Japan)**
 - Prof. Nina Patzke, Department of Biological Sciences
 - Isabel Fernandez (PhD student)
 - Dr. Khin Tha, Hokkaido University Hospital – Radiology
 <br>
+<br>
 **IDOR - Instituto D'Or de Pesquisa e Ensino**
 - Prof. Fernanda Tovar-Moll
+<br>
 <br>
 **Vanderbildt University (USA)**
 - Prof. Suzana Herculano-Houzel
 <br>
 <br>
+<br>
 ### Neuromorphology
+<br>
+<br>
 **Maqua – UERJ, Rio de Janeiro**
 - Prof. Haydee Cunha
+<br>
 <br>
 **Biopesca Institute, Praia Grande SP**
 - Prof. Carolina P. Bertozi
 <br>
+<br>
 **INPA, Manaus AM.**
 - Prof Vera da Silva
+<br>
 <br>
 **Aquasis, Fortaleza CE**
 - Veterinário Vitor Luz
 <br>
+<br>
 **Grupo Bioma, Belém PA**
 - Pesquisador Gabriel Melo-Santos
+<br>
 <br>
 **PISA Group – DRO - USP, São Paulo**
 - Khallil Taverna Chain
 <br>
+<br>
 **CENABIO – UFRJ, Rio de Janeiro**
 - Prof. Adalberto Ramon Vieyra
 - Dr. Rodrigo Jorge
+<br>
 <br>
 <br>
 
