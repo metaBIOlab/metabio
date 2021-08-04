@@ -8,10 +8,6 @@ aliases:
   - H Gassner
   - Gassner, H.
   - Heitor Gassner
-links:
-  link: 
-  email: 
-  twitter: 
 
 ---
 
