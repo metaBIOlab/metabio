@@ -2,7 +2,7 @@
   group: channel
   image: images/photo.jpg
   link: https://www.youtube.com/channel/UC-0o7uNd6RMw0KQTOc_OMFw
-  description: **PT-EN** A YouTube channel with our lab seminar series.
+  description: **PT EN** A YouTube channel with our lab seminar series.
   repo: greenelab/lab-website-template
 
 - name: Golfinho Falador
