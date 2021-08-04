@@ -9,7 +9,7 @@
   group: featured
   image: images/golfinhofalador.jpeg
   link: https://www.instagram.com/golfinho.falador/
-  description: (PT) Instagram channel about cetaceans, run by one of our undergrads, [Christiane Barbosa](https://metabio.netlify.app/members/christiane-barbosa.html).
+  description: (PT) Instagram channel about cetaceans, run by one of our undergrads, Christiane Barbosa.
   repo: greenelab/lab-website-template
 
 - name: Programação em Python
@@ -17,5 +17,5 @@
   image: images/photo.jpg
   link: https://youtube.com/
   # https://youtube.com/playlist?list=PLoL7-JBnhjz8ttwCrz11qWjrGjefsUYVS
-  description: (PT) Curso em português de Programação em Python por [Victor B. B. Mello](https://metabio.netlify.app/members/victor-mello.html).
+  description: (PT) Curso em português de Programação em Python por [Victor B. B. Mello](victor-mello).
   repo: greenelab/lab-website-template
