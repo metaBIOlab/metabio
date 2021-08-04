@@ -2,14 +2,14 @@
   group: featured
   image: images/photo.jpg
   link: https://www.youtube.com/channel/UC-0o7uNd6RMw0KQTOc_OMFw
-  description: [PT-EN] A YouTube channel with our lab seminar series.
+  description: (PT-EN) A YouTube channel with our lab seminar series.
   repo: greenelab/lab-website-template
 
 - name: Golfinho Falador
   group: featured
   image: images/golfinhofalador.jpeg
   link: https://www.instagram.com/golfinho.falador/
-  description: [PT] Instagram channel about cetaceans, run by one of our undergrads, [Christiane Barbosalo](https://metabio.netlify.app/members/christiane-barbosa.html).
+  description: (PT) Instagram channel about cetaceans, run by one of our undergrads, [Christiane Barbosa](https://metabio.netlify.app/members/christiane-barbosa.html).
   repo: greenelab/lab-website-template
 
 - name: Programação em Python
@@ -17,5 +17,5 @@
   image: images/photo.jpg
   link: https://youtube.com/
   # https://youtube.com/playlist?list=PLoL7-JBnhjz8ttwCrz11qWjrGjefsUYVS
-  description: [PT] Curso em português de Programação em Python por [Victor B. B. Mello](https://metabio.netlify.app/members/victor-mello.html).
+  description: (PT) Curso em português de Programação em Python por [Victor B. B. Mello](https://metabio.netlify.app/members/victor-mello.html).
   repo: greenelab/lab-website-template
