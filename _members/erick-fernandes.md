@@ -1,6 +1,6 @@
 ---
 name: Erick Fernandes
-images/member2.jpg
+image: images/member2.jpg
 description: Undergrad Thesis
 role: undergrad
 aliases:
