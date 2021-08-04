@@ -1,15 +1,15 @@
-- name: Cool Dataset
+- name: Youtube channel
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: https://www.youtube.com/channel/UC-0o7uNd6RMw0KQTOc_OMFw
+  description: [PT-EN] A YouTube channel with our lab seminar series.
   repo: greenelab/lab-website-template
 
-- name: Cool Package
+- name: Golfinho Falador
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/golfinhofalador.jpeg
+  link: https://www.instagram.com/golfinho.falador/
+  description: [PT] Instagram channel about cetaceans, run by one of our undergrads [christiane-barbosa].
   repo: greenelab/lab-website-template
 
 - name: Cool Tutorial - Programação em Python
@@ -17,19 +17,5 @@
   image: images/photo.jpg
   link: https://youtube.com/
   # https://youtube.com/playlist?list=PLoL7-JBnhjz8ttwCrz11qWjrGjefsUYVS
-  description: Curso em português de Programação em Python por [Victor B. B. Mello](https://metabio.netlify.app/members/victor-mello.html).
-  repo: greenelab/lab-website-template
-
-- name: Cool Web App
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-
-- name: Cool Web Server
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: [PT] Curso em português de Programação em Python por [Victor B. B. Mello](https://metabio.netlify.app/members/victor-mello.html).
   repo: greenelab/lab-website-template
