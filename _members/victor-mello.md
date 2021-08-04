@@ -15,5 +15,4 @@ links:
 
 ---
 
-Description here!!
-
+IF/UFRJ, Funded by Serrapilheira grant - Cortical reconstruction and slice interpolation, statistical modeling, COVID modeling, python mentoring
