@@ -25,8 +25,8 @@ Please fell free to get in touch with any of us regarding this material.
 
 ## More
 
-{% include list.html component="card" data="tools" filters="group: more" style="small" %}
+{% include list.html component="card" data="tools" filters="group: more" %}
 
 ## Events
 
-{% include list.html component="card" data="events" filters="group: events" style="small" %}
+{% include list.html data="events" component="card" filters="date: ~2020" %}
