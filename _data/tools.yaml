@@ -1,21 +1,31 @@
 - name: Youtube channel
-  group: featured
+  group: channel
   image: images/photo.jpg
   link: https://www.youtube.com/channel/UC-0o7uNd6RMw0KQTOc_OMFw
   description: (PT-EN) A YouTube channel with our lab seminar series.
   repo: greenelab/lab-website-template
 
 - name: Golfinho Falador
-  group: featured
+  group: channel
   image: images/golfinhofalador.jpeg
   link: https://www.instagram.com/golfinho.falador/
   description: (PT) Instagram channel about cetaceans, run by one of our undergrads, Christiane Barbosa.
   repo: greenelab/lab-website-template
 
 - name: Programação em Python
-  group: more
+  group: channel
   image: images/photo.jpg
   link: https://youtube.com/
   # https://youtube.com/playlist?list=PLoL7-JBnhjz8ttwCrz11qWjrGjefsUYVS
   description: (PT) Curso em português de Programação em Python por [Victor B. B. Mello](victor-mello).
+  repo: greenelab/lab-website-template
+
+- name: Analysis pipeline to extract cortical morphology measures from Freesurfer for cortical
+folding analysis
+  group: repository
+  image: images/photo.jpg
+  link: https://zenodo.org/record/3608675#.YQn_HnVKiV4
+  # https://youtube.com/playlist?list=PLoL7-JBnhjz8ttwCrz11qWjrGjefsUYVS
+  description: Wang Y, Ludwig T, Mota B, _Analysis pipeline to extract cortical morphology measures from Freesurfer for cortical
+folding analysis_. 10.5281/zenodo.3608675
   repo: greenelab/lab-website-template
