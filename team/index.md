@@ -70,7 +70,7 @@ Check for updates! Soon.
 
 {% include section.html %}
 
-## Partners and collaborators
+## Ppartnerships and collaborators
 We would be nothing without them, our partners and collaborators.
 {:.center}
 
@@ -81,6 +81,69 @@ We would be nothing without them, our partners and collaborators.
   filters="role: collaborator"
 %}
 {:.center}
+
+<br>
+<br>
+### Neurodevelopment
+**UFRJ – Universidade Federal do Rio de Janeiro**
+- Prof. Patrícia Garcez, ICB
+<br>
+**University of Oxford (UK)**
+- Prof. Zoltan Molnar, DPAG
+- Prof. Philip Maini, Institute of Mathematics
+<br>
+**University of Swansea (UK)**
+- Dr. Noemi Picco
+<br>
+**IPRM University of California - Davis (USA)**
+- Prof Steven Noctor
+- Dr. Carmen Falcone
+<br>
+<br>
+### Neuromorphology
+**Newcastle University (UK)**
+- Dr. Yujiang Wang, School of Computing Science
+- Dr. Colline Poirier, Institute of Neuroscience
+<br>
+**University of Nottingham (UK)**
+- Prof. Chris Madan, Department of Psychology
+<br>
+**Hokkaido University (Japan)**
+- Prof. Nina Patzke, Department of Biological Sciences
+- Isabel Fernandez (PhD student)
+- Dr. Khin Tha, Hokkaido University Hospital – Radiology
+<br>
+**IDOR - Instituto D'Or de Pesquisa e Ensino**
+- Prof. Fernanda Tovar-Moll
+<br>
+**Vanderbildt University (USA)**
+- Prof. Suzana Herculano-Houzel
+<br>
+<br>
+### Neuromorphology
+**Maqua – UERJ, Rio de Janeiro**
+- Prof. Haydee Cunha
+<br>
+**Biopesca Institute, Praia Grande SP**
+- Prof. Carolina P. Bertozi
+<br>
+**INPA, Manaus AM.**
+- Prof Vera da Silva
+<br>
+**Aquasis, Fortaleza CE**
+- Veterinário Vitor Luz
+<br>
+**Grupo Bioma, Belém PA**
+- Pesquisador Gabriel Melo-Santos
+<br>
+**PISA Group – DRO - USP, São Paulo**
+- Khallil Taverna Chain
+<br>
+**CENABIO – UFRJ, Rio de Janeiro**
+- Prof. Adalberto Ramon Vieyra
+- Dr. Rodrigo Jorge
+<br>
+<br>
 
 {%
   include gallery.html
