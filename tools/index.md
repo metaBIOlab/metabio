@@ -28,8 +28,4 @@ Please fell free to get in touch with any of us regarding this material.
 {% include list.html component="card" data="tools" filters="group: more" %}
 
 ## Events
-### 2021
-{% include list.html data="events" component="card" filters="date: ~2021" %}
-
-### 2020
-{% include list.html data="events" component="card" filters="date: ~2020" %}
+{% include list.html data="events" component="card" %}
