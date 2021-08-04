@@ -28,14 +28,12 @@ Please fell free to get in touch with any of us regarding this material.
 {% include section.html %}
 
 ## Events
-{% include list.html component="card" data="events" filters="group: events" style="small" %}
+<!-- {% include list.html component="card" data="events" filters="group: events" style="small" %} -->
 
 ### Coming up
-- Event 1
-- Event 2
+<!-- - Event 1 -->
+<!-- - Event 2 -->
 
-
-<br>
 <br>
 <br>
 ### Past events
