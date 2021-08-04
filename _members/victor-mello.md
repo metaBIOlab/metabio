@@ -1,6 +1,6 @@
 ---
 name: Victor Barreto Braga Mello
-image: images/victor.jpg
+image: images/member2.jpg
 description: Postdoctoral Researcher
 role: postdoc
 aliases:
