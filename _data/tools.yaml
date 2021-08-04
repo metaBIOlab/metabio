@@ -17,7 +17,7 @@
   image: images/photo.jpg
   link: https://youtube.com/
   # https://youtube.com/playlist?list=PLoL7-JBnhjz8ttwCrz11qWjrGjefsUYVS
-  description: (PT) Curso em português de Programação em Python por [Victor B. B. Mello](victor-mello).
+  description: (PT) Curso em português de Programação em Python por Victor B. B. Mello.
   repo: greenelab/lab-website-template
 
 - name: Analysis pipeline to extract cortical morphology measures from Freesurfer for cortical
