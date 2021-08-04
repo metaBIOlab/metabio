@@ -1,7 +1,20 @@
-- name:  Minicurso Neuroimagem - II Congresso Nacional de Ligas de Anatomia Humana 2021
+- name: Técnicas de Investigação não-invasiva da morfometria cerebral por imagens de Ressonância Magnética e aplicações.
   group: events
   image: images/conlaah.png
   link: https://youtu.be/vPBOveiEbBQ
-  description: [PT] Minicurso de neuroimagem para o II Congresso Nacional de Ligas de Anatomia Humana 2021. A doutorando Fernanda de Moraes apresentou técnicas de Investigação não-invasiva da morfometria cerebral por imagens de Ressonância Magnética e aplicações.
+  description: [PT] Fernanda Hansen para o Minicurso de neuroimagem para o II Congresso Nacional de Ligas de Anatomia Humana 2021 (24 jul 2021). 
   repo: greenelab/lab-website-template
 
+- name: How to prepare a SciComm Presentation – BioRoom (witth Dr. Tahira Anwar)
+  group: events
+  image: images/photo.jpg
+  link: https://www.youtube.com/watch?v=tSfQpazjWyw
+  description: [EN] Bruno Mota in How to prepare a SciComm Presentation – BioRoom (witth Dr. Tahira Anwar).
+  repo: greenelab/lab-website-template
+  
+- name: Como o cérebro se dobra? Universalidade, leis de escala e estrutura fractal na morfologia do córtex cerebral
+  group: events
+  image: images/photo.jpg
+  link: https://www.wolfram.com/broadcast/video.php?c=104&v=3349&disp=grid&&ob=date&o=DESC
+  description: [PT] Bruno Mota para Virtual Wolfram Technology Conference Brasil (12 nov 2020)
+  repo: greenelab/lab-website-template
