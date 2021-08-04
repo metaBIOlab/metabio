@@ -19,3 +19,17 @@
   # https://youtube.com/playlist?list=PLoL7-JBnhjz8ttwCrz11qWjrGjefsUYVS
   description: [PT] Curso em português de Programação em Python por [Victor B. B. Mello](https://metabio.netlify.app/members/victor-mello.html).
   repo: greenelab/lab-website-template
+
+- name: How to prepare a SciComm Presentation – BioRoom (witth Dr. Tahira Anwar)
+  group: more
+  image: images/photo.jpg
+  link: https://www.youtube.com/watch?v=tSfQpazjWyw
+  description: [EN] Bruno Mota in "How to prepare a SciComm Presentation" – BioRoom (witth Dr. Tahira Anwar).
+  repo: greenelab/lab-website-template
+  
+ - name: Como o cérebro se dobra? Universalidade, leis de escala e estrutura fractal na morfologia do córtex cerebral
+  group: more
+  image: images/photo.jpg
+  link: https://www.wolfram.com/broadcast/video.php?c=104&v=3349&disp=grid&&ob=date&o=DESC
+  description: [PT] Bruno Mota em "Como o cérebro se dobra? Universalidade, leis de escala e estrutura fractal na morfologia do córtex cerebral" Virtual Wolfram Technology Conference Brasil – 2020 November 12 2020
+  repo: greenelab/lab-website-template
