@@ -8,11 +8,6 @@ aliases:
   - K Souza
   - Souza, K.
   - Kamilla Souza
-links:
-  link: 
-  email: 
-  twitter: 
-
 ---
 
 PhD student, PCM/ICB/UFRJ 2rd year, funded by CNPq – Specimen collecting,
