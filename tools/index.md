@@ -19,11 +19,11 @@ Please fell free to get in touch with any of us regarding this material.
 
 ## Channels
 
-{% include list.html component="card" data="tools" filters="group: channels" %}
+{% include list.html component="card" data="tools" filters="group: channel" %}
 
 ## Datasets and Code repositories
 
-{% include list.html component="card" data="tools" filters="group: repositories" %}
+{% include list.html component="card" data="tools" filters="group: repository" %}
 
 {% include section.html %}
 
