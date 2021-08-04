@@ -4,7 +4,7 @@ tags:
   - biology
   - medicine
   - big data
-author: Christiane Bonifacio
+author: Christiane Barbosa
 member: christiane-barbosa
 ---
 
