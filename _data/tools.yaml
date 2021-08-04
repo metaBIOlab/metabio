@@ -12,13 +12,11 @@
   description: **PT** Instagram channel about cetaceans, run by one of our undergrads, Christiane Barbosa.
   repo: greenelab/lab-website-template
 
-- name: Analysis pipeline to extract cortical morphology measures from Freesurfer for cortical
-folding analysis
+- name: Analysis pipeline to extract cortical morphology measures from Freesurfer for cortical folding analysis
   group: repository
   image: images/photo.jpg
   link: https://zenodo.org/record/3608675#.YQn_HnVKiV4
-  description: Wang Y, Ludwig T, Mota B, _Analysis pipeline to extract cortical morphology measures from Freesurfer for cortical
-folding analysis_. 10.5281/zenodo.3608675
+  description: Wang Y, Ludwig T, Mota B, _Analysis pipeline to extract cortical morphology measures from Freesurfer for cortical folding analysis_. 10.5281/zenodo.3608675
   repo: greenelab/lab-website-template
 
 - name: Cortical Folding Analysis Tools
