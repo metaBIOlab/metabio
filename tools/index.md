@@ -28,4 +28,4 @@ Please fell free to get in touch with any of us regarding this material.
 {% include section.html %}
 
 ## Events
-{% include list.html component="card" data="events" %}
+{% include list.html component="card" data="events" filters="group: events" %}
