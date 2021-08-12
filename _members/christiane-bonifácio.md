@@ -1,10 +1,10 @@
 ---
-name: Christiane Barbosa
+name: Christiane Bonifácio
 image: images/member2.jpg
 description: Undergrad Thesis
 role: undergrad
 aliases:
-  - Christiane Barbosa
+  - Christiane Bonifácio
 links:
   instagram: instagram.com/golfinho.falador/
 
