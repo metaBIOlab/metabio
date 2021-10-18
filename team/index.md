@@ -70,7 +70,7 @@ Check for updates! Soon.
 
 {% include section.html %}
 
-## Ppartnerships and collaborators
+## Partnerships and collaborators
 We would be nothing without them, our partners and collaborators.
 {:.center}
 
