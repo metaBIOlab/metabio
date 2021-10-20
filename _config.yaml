@@ -12,6 +12,7 @@ baseurl: /lab-website-template
 links:
   twitter: metaBIOlab
   youtube: channel/UC-0o7uNd6RMw0KQTOc_OMFw
+  github: labmetabio
   
 # automatic citations
 auto-cite:
