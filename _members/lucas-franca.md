@@ -1,7 +1,7 @@
 ---
 name: Dr. Lucas França
 image: images/lucasfranca.jpeg
-description: Collaborator (Research Associate at King's College London)
+description: Research Associate at King's College London
 role: collaborator
 aliases:
   - França, L.
