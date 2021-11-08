@@ -19,7 +19,7 @@ Please fell free to get in touch with any of us regarding this material.
 
 ## Texts
 
-- **[Estimating multifractal spectra with Chhabra-Jensen's method](https://www.lfranca.uk/post/multifractal-chj/)** (17 feb 2021).
+- **[Estimating multifractal spectra with Chhabra-Jensen's method](https://www.lfranca.uk/post/multifractal-chj/)** (EN) _[Lucas França](lucas-franca)_ (17 feb 2021).
 <br>
 
 {% include section.html %}
