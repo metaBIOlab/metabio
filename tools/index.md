@@ -43,7 +43,9 @@ Please fell free to get in touch with any of us regarding this material.
 <!-- {% include list.html component="card" data="events" filters="group: events" style="small" %} -->
 
 ### Coming up
-<!-- - Event 1 -->
+- **[O cérebro, o Universo e todo o resto](https://www.youtube.com/watch?v=YwNYCC35IIE)** (PT) _[Bruno Mota](bruno-mota)_ para a [MatUrca](https://www.instagram.com/matematicanaurca/), evento anual da Escola de Matemática da UNIRIO em 2021 (09 nov 2021).
+<br>
+
 <!-- - Event 2 -->
 
 <br>
