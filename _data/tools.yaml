@@ -26,7 +26,7 @@
   description: Wang Y, Muricy A, Necus J, Garside K, Ludwig T, Mota B _Cortical Folding Analysis Tools_
   repo: greenelab/lab-website-template
   
-  - name: Séride de artigo para **A ciência explica** por [Kamilla Souza](kamilla-souza)
+- name: Séride de artigo para **A ciência explica** por [Kamilla Souza](kamilla-souza)
   group: channel
   image: images/cropped-ACiênciaExplicaRiodeJaneiro.png
   link: http://www.cienciaexplica.com.br/author/kamilla-souza/
