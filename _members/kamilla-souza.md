@@ -1,6 +1,6 @@
 ---
 name: Kamilla Souza
-image: images/member2.jpg
+image: images/Kamilla.jpg
 description: PhD Student
 role: phd
 aliases:
@@ -10,5 +10,4 @@ aliases:
   - Kamilla Souza
 ---
 
-PhD student, PCM/ICB/UFRJ 2rd year, funded by CNPq – Specimen collecting,
-cortical imaging and contour tracing, cell counting; runs collection network
+Kamilla Avelino de Souza is graduated in Biological Sciences, Msc. in Neuroscience and Phd student in the Morphological Sciences Department at the Federal University of Rio de Janeiro. Her research is focused on Comparative Neuronatomy. She works more particularly with cetaceans' brains in order to understand how evolutionary and physical mechanisms give rise to the neuroanatomical diversity across species.
