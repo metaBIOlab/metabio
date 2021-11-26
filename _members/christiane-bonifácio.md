@@ -1,7 +1,7 @@
 ---
 name: Christiane Bonifácio
 image: images/Chris.jpeg
-description: Undergrad Thesis
+description: Undergrad Student
 role: undergrad
 aliases:
   - Christiane Bonifácio
