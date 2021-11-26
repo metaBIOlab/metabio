@@ -1,6 +1,6 @@
 ---
 name: Bruno Mota
-image: images/member2.jpg
+image: images/Bruno.jpeg
 description: Principal Investigator
 role: pi
 aliases:

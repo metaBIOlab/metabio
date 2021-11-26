@@ -25,3 +25,11 @@
   link: https://github.com/cnnp-lab/CorticalFoldingAnalysisTools
   description: Wang Y, Muricy A, Necus J, Garside K, Ludwig T, Mota B _Cortical Folding Analysis Tools_
   repo: greenelab/lab-website-template
+  
+- name: Séride de artigos de divulgação científica para A ciência explica
+  group: channel
+  image: images/cropped-ACiênciaExplicaRiodeJaneiro.png
+  link: http://www.cienciaexplica.com.br/author/kamilla-souza/
+  description: (PT) Série de artigos de divulgação científica para o site **A ciência explica** por [Kamilla Souza](kamilla-souza).
+  repo: greenelab/lab-website-template
+  
