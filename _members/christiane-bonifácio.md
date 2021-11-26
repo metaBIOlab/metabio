@@ -1,6 +1,6 @@
 ---
 name: Christiane Bonifácio
-image: images/member2.jpg
+image: images/Chris.jpeg
 description: Undergrad Thesis
 role: undergrad
 aliases:
@@ -10,5 +10,4 @@ links:
 
 ---
 
-Undergrad, UEZO 4th year, to be funded by Serrapilheira [Msc starting 2022]
-Kamilla’s henchwoman, cell counting, contour tracing, runs and own Instagram channel about cetaceans.
+Christiane Bonifácio é graduanda de Ciências Biológicas com ênfase em Biotecnologia pela Universidade Estadual da Zona Oeste (UEZO). Atualmente é aluna de Iniciação Científica do laboratório METABio, atuando no projeto intitulado "Uma análise multiparamétrica morfológica e histológica do encéfalo de cetáceos".  Sua contribuição envolve a etapa histológica  do projeto, a qual ocorre através de análise da composição celular destes encéfalos.
