@@ -1,7 +1,7 @@
 ---
 name: Fernanda H. P. de Moraes
 image: images/foto34_menor.jpg
-description: PhD Student
+description: Medical Physicist
 role: phd
 aliases:
   - F. H. P. Moraes
