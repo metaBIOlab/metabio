@@ -1,7 +1,7 @@
 ---
 name: Kamilla Souza
 image: images/Kamilla.jpg
-description: PhD Student
+description: Biologist
 role: phd
 aliases:
   - K. Souza
