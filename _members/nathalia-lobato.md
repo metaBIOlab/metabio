@@ -1,6 +1,6 @@
 ---
 name: Nathália Junqueira Lobato
-image: 
+image: images/nathalia.jpg
 description: undergrad student
 role: undergrad
 aliases:
