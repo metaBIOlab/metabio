@@ -1,12 +1,12 @@
 ---
-name: Caroline V. F. Lima
+name: Caroline V. F. de Lima
 image: images/carolinelima.jpeg
 description: Biomedical Scientist
 role: collaborator
 aliases:
-  - Caroline Lima
+  - Caroline de Lima
   - Caroline Victorino Felix de Lima
-  - LIMA, Caroline Victorino Felix
+  - DE LIMA, Caroline Victorino Felix
   - C Victorino Felix de Lima
 links:
   link: https://www.researchgate.net/profile/Caroline-De-Lima-6
