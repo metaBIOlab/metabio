@@ -1,5 +1,5 @@
 ---
-name: Caroline Lima
+name: Caroline V. F. Lima
 image: images/carolinelima.jpeg
 description: Biomedical Scientist
 role: collaborator
