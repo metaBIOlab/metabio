@@ -9,6 +9,7 @@ aliases:
   - LIMA, Caroline Victorino Felix
   - C Victorino Felix de Lima
 links:
+  link: https://www.researchgate.net/profile/Caroline-De-Lima-6
   email: caroline.victorino@idor.org
 ---
 
