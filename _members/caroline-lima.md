@@ -1,6 +1,6 @@
 ---
 name: Caroline Lima
-image: images/member2.jpg
+image: images/carolinelima.jpeg
 description: Biomedical Scientist
 role: collaborator
 aliases:
