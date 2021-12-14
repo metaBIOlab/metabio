@@ -19,10 +19,10 @@ Please fell free to get in touch with any of us regarding this material.
 
 ## Texts
 
-- **[Estimating multifractal spectra with Chhabra-Jensen's method](https://www.lfranca.uk/post/multifractal-chj/)** (EN) _[Lucas França](lucas-franca)_ (17 feb 2021).
+- **[Estimating multifractal spectra with Chhabra-Jensen's method](https://www.lfranca.uk/post/multifractal-chj/)** (EN) _[Lucas França](lucas-franca)_ (17 feb 2021)
 <br>
 
-- **[Um homem entre gigantes: Quando a ciência “bate de frente” com a NFL](https://www.blogs.unicamp.br/ensaios/2020/09/23/um-homem-entre-gigantes-quando-a-ciencia-bate-de-frente-com-a-nfl/)** (PT) _[Kamilla Souza](kamilla-souza)_ (23 sep 2020).
+- **[Um homem entre gigantes: Quando a ciência “bate de frente” com a NFL](https://www.blogs.unicamp.br/ensaios/2020/09/23/um-homem-entre-gigantes-quando-a-ciencia-bate-de-frente-com-a-nfl/)** (PT) _[Kamilla Souza](kamilla-souza)_ (23 sep 2020)
 
 {% include section.html %}
 
@@ -34,6 +34,7 @@ Please fell free to get in touch with any of us regarding this material.
 
 <!-- {% include list.html component="card" data="tools" filters="group: repository" %} -->
 
+- **[OpenData for the Independent morphological variables correlate to aging, Mild Cognitive Impairment, and Alzheimer's Disease manuscript](https://zenodo.org/record/5750619)** (02 dec 2021)
 - **[Analysis pipeline to extract cortical morphology measures from Freesurfer for cortical folding analysis](https://zenodo.org/record/3608675#.YQn_HnVKiV4)** (04 oct 2019).
 <br>
 - **[Cortical Folding Analysis Tools](https://github.com/cnnp-lab/CorticalFoldingAnalysisTools)**.
@@ -46,15 +47,14 @@ Please fell free to get in touch with any of us regarding this material.
 
 ### Coming up
 
-- **[O cérebro, o Universo e todo o resto](https://www.youtube.com/watch?v=YwNYCC35IIE)** (PT) _[Bruno Mota](bruno-mota)_ para a [MatUrca](https://www.instagram.com/matematicanaurca/), evento anual da Escola de Matemática da UNIRIO em 2021 (09 nov 2021).
-<br>
-
 <!-- - Event 2 -->
 
 <br>
 <br>
 ### Past events
 
+- **[O cérebro, o Universo e todo o resto](https://www.youtube.com/watch?v=YwNYCC35IIE)** (PT) _[Bruno Mota](bruno-mota)_ para a [MatUrca](https://www.instagram.com/matematicanaurca/), evento anual da Escola de Matemática da UNIRIO em 2021 (09 nov 2021).
+<br>
 - **[Tecnicas de Investigação não-invasiva da morfometria cerebral por imagens de Ressonância Magnética e aplicações](https://youtu.be/vPBOveiEbBQ)** (PT) _[Fernanda de Moraes](fernanda-moraes)_ para o Minicurso de neuroimagem para o II Congresso Nacional de Ligas de Anatomia Humana 2021 (24 jul 2021).
 <br>
 - **[How to prepare a SciComm Presentation](https://www.youtube.com/watch?v=tSfQpazjWyw)** (EN) _[Bruno Mota](bruno-mota)_ for the [@BioRoom2](https://twitter.com/BioRoom2) with Dr. Tahira Anwar (23 jan 2020).
