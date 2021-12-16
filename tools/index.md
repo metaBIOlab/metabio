@@ -47,6 +47,8 @@ Please fell free to get in touch with any of us regarding this material.
 
 ### Coming up
 
+- **[Poster Presentation](https://www.youtube.com/watch?v=YwNYCC35IIE)** (EN) _[Kamilla Souza](kamilla-souza)_ at the [Society for Integrative and Comparative Biology (SICB)](https://burkclients.com/sicb/meetings/2022/site/) in 2022.
+<br>
 <!-- - Event 2 -->
 
 <br>
