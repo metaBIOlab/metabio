@@ -47,3 +47,13 @@
     - compared neuroanatomy
     - brain morphology
     - cortical folding 
+
+- id: doi:10.1101/2022.01.10.22268812
+  date: 2022-01-11
+  extra-links:
+    - type: preprint
+      link: https://www.medrxiv.org/content/10.1101/2022.01.10.22268812v1.article-info
+  tags:
+    - brain morphology
+    - cortical folding 
+    - neurodegenerative diseases
