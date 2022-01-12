@@ -103,3 +103,24 @@
   - compared neuroanatomy
   - brain morphology
   - cortical folding
+- id: doi:10.1101/2022.01.10.22268812
+  title: Independent morphological variables correlate with Aging, Mild Cognitive
+    Impairment, and Alzheimer's Disease
+  authors:
+  - Fernanda Hansen Pacheco de Moraes
+  - Felipe Sudo
+  - Marina Monteiro Carneiro
+  - Bruno R. P. de Melo
+  - Paulo Mattos
+  - Bruno Mota
+  - Fernanda Tovar-Moll
+  publisher: Cold Spring Harbor Laboratory
+  date: 1900-1-1
+  link: https://doi.org/gn3n9d
+  extra-links:
+  - type: preprint
+    link: https://www.medrxiv.org/content/10.1101/2022.01.10.22268812v1
+  tags:
+  - brain morphology
+  - cortical folding
+  - neurodegenerative diseases
