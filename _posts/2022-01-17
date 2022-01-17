@@ -1,0 +1,26 @@
+---
+title: Comment on new preprint Independent morphological variables correlate with Aging, Mild Cognitive Impairment, and Alzheimer’s Disease 
+tags:
+  - publications
+author: Fernanda Hansen P. de Moraes
+member: fernanda-moraes
+---
+
+Our most recent preprint and *in submission* manuscript is one of the manuscripts from [Fernanda Hansen P. de Moraes](fernanda-moraes) PhD Thesis.
+The full text is available in [medRxiv](https://www.medrxiv.org/content/10.1101/2022.01.10.22268812). Here are some comments on it.
+
+In this manuscript, our goal was to suggest the recently proposed variable K as a new biomarker of brain structure. Our choice was to apply it in an Alzheimer's Disease study. Alzheimer's Disease has a particular, but not uncommon, type of brain plasticity: neurodegeneration.
+
+In neurodegenerative diseases, and in a certain way also in aging, the brain tends to become less folded. The less folded aspect can be derived from the loss of neurons, demyelination, and other events. In Alzheimer's Disease and aging, these destructive events will probably reduce the cortical thickness when affecting the gray matter. An easier way to see how the thinner cortical thickness leads to a less folded brain is to see how the sulci get more profound and more prominent while gyri get thinner.
+
+Also, the now looser white matter, due to the demyelination, according to the cortical folding model, would make the brain less folded since the model states the axon tension pulls white matter and consequently the cortex to the folded shape. At a glance, Alzheimer's Disease, beyond being the most common dementia worldwide, was the perfect human brain plasticity to verify if the model would have practical and further clinical application.
+
+Thereby, we first proved that the subjects followed the universal rule. Otherwise, using K, dependent on the model fit, would be useless. Further, we investigated, with a known biomarker analysis, optimal cut-off, if we could discriminate Healthy Cognitive Unimpaired Controls from subjects with Alzheimer's Disease, or its less preclinical stage, Mild Cognitive Impairment. We also compared if the discriminating power of K would be at least comparable and similar to cortical thickness. Moreover, we verified if brain areas, more affected by Alzheimer's Disease, the temporal lobe, would have higher discriminating power than other regions, as the whole hemisphere (too general) and other lobes.
+
+Beyond, we investigated the correlation between K and CSF biomarkers of Alzheimer's Disease and clinical evaluations. We wanted to verify if a less folded brain (regardless of the Diagnostic) would be related to the worst score in memory tests, cognitive indexes, or higher concentration of Amyloid plaques and tau tangles.
+
+The results lead to secondary and still open questions. [Wang et al. 2016](https://www.pnas.org/content/113/45/12820) proposed it was easier to discriminate Alzheimer's Disease from healthy aging in younger adults. We could not confirm or discard this hypothesis. Moreover, our sample does not fit the model as expected. When say fitting the model, we expect our subjects to be lined up in a line in which the slope would be equal to the theoretical value of [1.25](https://www.science.org/doi/10.1126/science.aaa9101) or closer to the [previous publications](https://www.pnas.org/content/113/45/12820). Neither happened, besides our validations with open access datasets (Supplementary Information of Manuscript). We propose the slope, until here considered a constant, is affected by aging.
+
+We believe this work will contribute to Alzheimer's Disease and neurodegenerative pathologies. It is the first work to use complex structural variables to characterize the brain damage caused by such diseases. Further, K, as maybe, a combination of K, S, and I, will provide additional information by facilitating healthy aging and neurodegeneration pathologies discrimination.
+
+The code used for the analysis in this manuscript is available on metaBIO's GitHub (https://github.com/metaBIOlab/CorticalFolding_AD_Aging).
