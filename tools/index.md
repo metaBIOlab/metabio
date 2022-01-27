@@ -48,13 +48,15 @@ Please fell free to get in touch with any of us regarding this material.
 
 ### Coming up
 
-- **[Multiparametric Compartive Analysis of Structure and Cellular Composition of Cetaceans Brains](https://www.youtube.com/watch?v=YwNYCC35IIE)** (EN) Poster presentation of_[Kamilla Souza](kamilla-souza)_ at the [Society for Integrative and Comparative Biology (SICB)](https://burkclients.com/sicb/meetings/2022/site/) meeting in 2022 (04 jan 2022).
-<br>
+
 <!-- - Event 2 -->
 
 <br>
 <br>
 ### Past events
+
+- **[Multiparametric Compartive Analysis of Structure and Cellular Composition of Cetaceans Brains](https://www.youtube.com/watch?v=YwNYCC35IIE)** (EN) Poster presentation of *[Kamilla Souza](kamilla-souza)* at the [Society for Integrative and Comparative Biology (SICB)](https://burkclients.com/sicb/meetings/2022/site/) meeting in 2022 (04 jan 2022).
+<br>
 
 - **[O cérebro, o Universo e todo o resto](https://www.youtube.com/watch?v=YwNYCC35IIE)** (PT) _[Bruno Mota](bruno-mota)_ para a [MatUrca](https://www.instagram.com/matematicanaurca/), evento anual da Escola de Matemática da UNIRIO em 2021 (09 nov 2021).
 <br>
