@@ -48,6 +48,7 @@ Please fell free to get in touch with any of us regarding this material.
 
 ### Coming up
 
+- **[The fractal cortex: A multi-scale surface-preserving analysis suggests all cortices are approximations of a single universal shape](https://cftc.ciencias.ulisboa.pt/seminar.php?id=505)** [Bruno Mota](bruno-mota)'s seminar at CFTC, Lisbon on 2022-03-15 15:00.
 
 <!-- - Event 2 -->
 
