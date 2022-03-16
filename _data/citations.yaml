@@ -116,10 +116,27 @@
   - Fernanda Tovar-Moll
   publisher: medRxiv
   date: 2022-1-12
-  link: https://doi.org/gn3n9d
+  link: https://www.medrxiv.org/content/10.1101/2022.01.10.22268812
   extra-links:
   - type: preprint
     link: https://www.medrxiv.org/content/10.1101/2022.01.10.22268812
+  tags:
+  - brain morphology
+  - cortical folding
+  - neurodegenerative diseases
+  - id: doi:10.1101/2022.01.10.22268812
+  title: Establishing a baseline for human cortical folding morphological variables: a multicenter study
+  authors:
+  - Fernanda Hansen Pacheco de Moraes
+  - Victor B. B. Mello
+  - Fernanda Tovar-Moll
+  - Bruno Mota
+  publisher: medRxiv
+  date: 2022-03-12
+  link: https://www.medrxiv.org/content/10.1101/2022.03.10.22272228
+  extra-links:
+  - type: preprint
+    link: https://www.medrxiv.org/content/10.1101/2022.03.10.22272228
   tags:
   - brain morphology
   - cortical folding
