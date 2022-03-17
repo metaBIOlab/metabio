@@ -49,6 +49,7 @@
     - cortical folding 
 
 - id: doi:10.1101/2022.01.10.22268812
+  image: https://www.medrxiv.org/content/medrxiv/early/2022/01/12/2022.01.10.22268812/F1.large.jpg
   date: 2022-1-11
   extra-links:
     - type: preprint
@@ -59,6 +60,7 @@
     - neurodegenerative diseases
     
 - id: doi:10.1101/2022.03.10.22272228
+  image: 
   date: 2022-3-13
   extra-links:
     - type: preprint
