@@ -124,6 +124,7 @@
   - brain morphology
   - cortical folding
   - neurodegenerative diseases
+  image: https://www.medrxiv.org/content/medrxiv/early/2022/01/12/2022.01.10.22268812/F1.large.jpg
 - id: doi:10.1101/2022.03.10.22272228
   title: 'Establishing a baseline for human cortical folding morphological variables:
     a multicenter study'
@@ -143,3 +144,4 @@
   - cortical folding
   - healthy controls
   - neurodegenerative diseases
+  image: null
