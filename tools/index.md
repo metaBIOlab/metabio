@@ -48,13 +48,14 @@ Please fell free to get in touch with any of us regarding this material.
 
 ### Coming up
 
-- **[The fractal cortex: A multi-scale surface-preserving analysis suggests all cortices are approximations of a single universal shape](https://cftc.ciencias.ulisboa.pt/seminar.php?id=505)** [Bruno Mota](bruno-mota)'s seminar at CFTC, Lisbon on 2022-03-15 15:00.
+- **[O córtex fractal: Uma análise multi-escalas sugere que todos os cortices cerebrais são aproximações da mesma forma universal](https://youtu.be/hekItEAFHsU)** Paletra de [Bruno Mota](bruno-mota) para a [Comissao de Física Biológica](https://sites.google.com/view/bio-sbf/in%C3%ADcio/webin%C3%A1rios) da Sociedade Brasileira de Físicas em 2022-06-01 19:00 (Horário de Brasília).
 
 <!-- - Event 2 -->
 
 <br>
 <br>
 ### Past events
+- **[The fractal cortex: A multi-scale surface-preserving analysis suggests all cortices are approximations of a single universal shape](https://cftc.ciencias.ulisboa.pt/seminar.php?id=505)** [Bruno Mota](bruno-mota)'s seminar at CFTC, Lisbon on 2022-03-15 15:00.
 
 - **[Multiparametric Compartive Analysis of Structure and Cellular Composition of Cetaceans Brains](https://www.youtube.com/watch?v=YwNYCC35IIE)** (EN) Poster presentation of *[Kamilla Souza](kamilla-souza)* at the [Society for Integrative and Comparative Biology (SICB)](https://burkclients.com/sicb/meetings/2022/site/) meeting in 2022 (04 jan 2022).
 <br>
