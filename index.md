@@ -39,7 +39,7 @@ We are creating a lot of good and cool stuff, wait for it.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/mesh3dtranslucid.jpeg"
   link="tools"
   headline="Our Resources and tools"
   text=text
