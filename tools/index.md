@@ -19,10 +19,10 @@ Please fell free to get in touch with any of us regarding this material.
 
 ## Texts
 
-- **[Estimating multifractal spectra with Chhabra-Jensen's method](https://www.lfranca.uk/post/multifractal-chj/)** (EN) _[Lucas França](lucas-franca)_ (17 feb 2021)
+- **[Estimating multifractal spectra with Chhabra-Jensen's method](https://www.lfranca.uk/post/multifractal-chj/)** (EN) _[Lucas França]([lucas-franca](https://metabio.netlify.app/members/lucas-franca.html))_ (17 feb 2021)
 <br>
 
-- **[Um homem entre gigantes: Quando a ciência “bate de frente” com a NFL](https://www.blogs.unicamp.br/ensaios/2020/09/23/um-homem-entre-gigantes-quando-a-ciencia-bate-de-frente-com-a-nfl/)** (PT) _[Kamilla Souza](kamilla-souza)_ (23 sep 2020)
+- **[Um homem entre gigantes: Quando a ciência “bate de frente” com a NFL](https://www.blogs.unicamp.br/ensaios/2020/09/23/um-homem-entre-gigantes-quando-a-ciencia-bate-de-frente-com-a-nfl/)** (PT) _[Kamilla Souza]([kamilla-souza](https://metabio.netlify.app/members/kamilla-souza.html))_ (23 sep 2020)
 
 {% include section.html %}
 
@@ -48,22 +48,22 @@ Please fell free to get in touch with any of us regarding this material.
 
 ### Coming up
 
-- **[O córtex fractal: Uma análise multi-escalas sugere que todos os cortices cerebrais são aproximações da mesma forma universal](https://youtu.be/hekItEAFHsU)** Paletra de [Bruno Mota](bruno-mota) para a [Comissao de Física Biológica](https://sites.google.com/view/bio-sbf/in%C3%ADcio/webin%C3%A1rios) da Sociedade Brasileira de Físicas em 2022-06-01 19:00 (Horário de Brasília).
+- **[O córtex fractal: Uma análise multi-escalas sugere que todos os cortices cerebrais são aproximações da mesma forma universal](https://youtu.be/hekItEAFHsU)** Paletra de [Bruno Mota]([bruno-mota](https://metabio.netlify.app/members/bruno-mota.html)) para a [Comissao de Física Biológica](https://sites.google.com/view/bio-sbf/in%C3%ADcio/webin%C3%A1rios) da Sociedade Brasileira de Físicas em 2022-06-01 19:00 (Horário de Brasília).
 
 <!-- - Event 2 -->
 
 <br>
 <br>
 ### Past events
-- **[The fractal cortex: A multi-scale surface-preserving analysis suggests all cortices are approximations of a single universal shape](https://cftc.ciencias.ulisboa.pt/seminar.php?id=505)** [Bruno Mota](bruno-mota)'s seminar at CFTC, Lisbon on 2022-03-15 15:00.
+- **[The fractal cortex: A multi-scale surface-preserving analysis suggests all cortices are approximations of a single universal shape](https://cftc.ciencias.ulisboa.pt/seminar.php?id=505)** [Bruno Mota]([bruno-mota](https://metabio.netlify.app/members/bruno-mota.html))'s seminar at CFTC, Lisbon on 2022-03-15 15:00.
 
-- **[Multiparametric Compartive Analysis of Structure and Cellular Composition of Cetaceans Brains](https://www.youtube.com/watch?v=YwNYCC35IIE)** (EN) Poster presentation of *[Kamilla Souza](kamilla-souza)* at the [Society for Integrative and Comparative Biology (SICB)](https://burkclients.com/sicb/meetings/2022/site/) meeting in 2022 (04 jan 2022).
+- **[Multiparametric Compartive Analysis of Structure and Cellular Composition of Cetaceans Brains](https://www.youtube.com/watch?v=YwNYCC35IIE)** (EN) Poster presentation of *[Kamilla Souza]([kamilla-souza](https://metabio.netlify.app/members/kamilla-souza.html))* at the [Society for Integrative and Comparative Biology (SICB)](https://burkclients.com/sicb/meetings/2022/site/) meeting in 2022 (04 jan 2022).
 <br>
 
-- **[O cérebro, o Universo e todo o resto](https://www.youtube.com/watch?v=YwNYCC35IIE)** (PT) _[Bruno Mota](bruno-mota)_ para a [MatUrca](https://www.instagram.com/matematicanaurca/), evento anual da Escola de Matemática da UNIRIO em 2021 (09 nov 2021).
+- **[O cérebro, o Universo e todo o resto](https://www.youtube.com/watch?v=YwNYCC35IIE)** (PT) _[Bruno Mota]([bruno-mota](https://metabio.netlify.app/members/bruno-mota.html))_ para a [MatUrca](https://www.instagram.com/matematicanaurca/), evento anual da Escola de Matemática da UNIRIO em 2021 (09 nov 2021).
 <br>
-- **[Tecnicas de Investigação não-invasiva da morfometria cerebral por imagens de Ressonância Magnética e aplicações](https://youtu.be/vPBOveiEbBQ)** (PT) _[Fernanda de Moraes](fernanda-moraes)_ para o Minicurso de neuroimagem para o II Congresso Nacional de Ligas de Anatomia Humana 2021 (24 jul 2021).
+- **[Tecnicas de Investigação não-invasiva da morfometria cerebral por imagens de Ressonância Magnética e aplicações](https://youtu.be/vPBOveiEbBQ)** (PT) _[Fernanda de Moraes]([fernanda-moraes](https://metabio.netlify.app/members/fernanda-moraes.html))_ para o Minicurso de neuroimagem para o II Congresso Nacional de Ligas de Anatomia Humana 2021 (24 jul 2021).
 <br>
-- **[How to prepare a SciComm Presentation](https://www.youtube.com/watch?v=tSfQpazjWyw)** (EN) _[Bruno Mota](bruno-mota)_ for the [@BioRoom2](https://twitter.com/BioRoom2) with Dr. Tahira Anwar (23 jan 2020).
+- **[How to prepare a SciComm Presentation](https://www.youtube.com/watch?v=tSfQpazjWyw)** (EN) _[Bruno Mota]([bruno-mota](https://metabio.netlify.app/members/bruno-mota.html))_ for the [@BioRoom2](https://twitter.com/BioRoom2) with Dr. Tahira Anwar (23 jan 2020).
 <br>
-- **[Como o cérebro se dobra? Universalidade, leis de escala e estrutura fractal na morfologia do córtex cerebral](https://www.wolfram.com/broadcast/video.php?c=104&v=3349&disp=grid&&ob=date&o=DESC)** (PT) _[Bruno Mota](bruno-mota)_ para a Virtual Wolfram Technology Conference Brasil (12 nov 2020).
+- **[Como o cérebro se dobra? Universalidade, leis de escala e estrutura fractal na morfologia do córtex cerebral](https://www.wolfram.com/broadcast/video.php?c=104&v=3349&disp=grid&&ob=date&o=DESC)** (PT) _[Bruno Mota]([bruno-mota](https://metabio.netlify.app/members/bruno-mota.html))_ para a Virtual Wolfram Technology Conference Brasil (12 nov 2020).
