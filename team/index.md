@@ -85,6 +85,7 @@ We would be nothing without them, our partners and collaborators.
 <br>
 <br>
 <br>
+
 ### Neurodevelopment
 <br>
 <br>
@@ -107,6 +108,7 @@ We would be nothing without them, our partners and collaborators.
 <br>
 <br>
 <br>
+
 ### Neuromorphology
 <br>
 <br>
@@ -134,6 +136,7 @@ We would be nothing without them, our partners and collaborators.
 <br>
 <br>
 <br>
+
 ### Aquatic Mammals
 <br>
 <br>
@@ -157,13 +160,16 @@ We would be nothing without them, our partners and collaborators.
 - Pesquisador Gabriel Melo-Santos
 <br>
 <br>
+<br>
+
+### Imaging
+**CENABIO – UFRJ, Rio de Janeiro**
+- Prof. Adalberto Ramon Vieyra
+- Dr. Rodrigo Jorge
 **PISA Group – DRO - USP, São Paulo**
 - Khallil Taverna Chain
 <br>
 <br>
-**CENABIO – UFRJ, Rio de Janeiro**
-- Prof. Adalberto Ramon Vieyra
-- Dr. Rodrigo Jorge
 <br>
 <br>
 <br>
