@@ -88,7 +88,6 @@ We would be nothing without them, our partners and collaborators.
 
 ### Neurodevelopment
 <br>
-<br>
 **UFRJ – Universidade Federal do Rio de Janeiro**
 - Prof. Patrícia Garcez, ICB
 <br>
@@ -110,7 +109,6 @@ We would be nothing without them, our partners and collaborators.
 <br>
 
 ### Neuromorphology
-<br>
 <br>
 **Newcastle University (UK)**
 - Dr. Yujiang Wang, School of Computing Science
@@ -139,7 +137,6 @@ We would be nothing without them, our partners and collaborators.
 
 ### Aquatic Mammals
 <br>
-<br>
 **Maqua – UERJ, Rio de Janeiro**
 - Prof. Haydee Cunha
 <br>
@@ -163,13 +160,14 @@ We would be nothing without them, our partners and collaborators.
 <br>
 
 ### Imaging
+<br>
 **CENABIO – UFRJ, Rio de Janeiro**
 - Prof. Adalberto Ramon Vieyra
 - Dr. Rodrigo Jorge
+<br>
+<br>
 **PISA Group – DRO - USP, São Paulo**
 - Khallil Taverna Chain
-<br>
-<br>
 <br>
 <br>
 <br>
