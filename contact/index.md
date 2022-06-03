@@ -10,6 +10,7 @@ nav:
 We are located in the Instituto de Física at the Universidade Federal do Rio de Janeiro. Currently working from home.
 Be safe and use masks!
 
+<!---
 {%
   include link.html
   type="email"
@@ -39,7 +40,8 @@ Be safe and use masks!
 %}
 {:.center}
 
-{% include section.html %}
+{% include section.html %}-->
+
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
@@ -49,6 +51,7 @@ Av. Athos da Silveira Ramos, 149 - Cidade Universitária\\
 Rio de Janeiro - RJ, Brasil CEP: 21941-972
 {:.center}
 
+<!---
 {% capture col1 %}
 {%
   include figure.html
@@ -63,4 +66,5 @@ Rio de Janeiro - RJ, Brasil CEP: 21941-972
   caption="Department of Metaphor"
 %}
 {% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
+{% include two-col.html col1=col1 col2=col2 %}-->
+
