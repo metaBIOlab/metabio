@@ -47,7 +47,7 @@ Please fell free to get in touch with any of us regarding this material.
 <!-- {% include list.html component="card" data="events" filters="group: events" style="small" %} -->
 
 ### Coming up
-- **Exploring the limits of a Universal Cortical Folding Model: an application to Congenital Pathologies** - Poster (#481) presetnation at [OHBM] with _[Fernanda de Moraes](https://metabio.netlify.app/members/fernanda-moraes.html)_ and  _[Victor Mello]([https://metabio.netlify.app/members/fernanda-moraes.html](https://metabio.netlify.app/members/victor-mello.html))_ in Glasgow, June 19, 2022 - June 23, 2022.
+- **Exploring the limits of a Universal Cortical Folding Model: an application to Congenital Pathologies** - Poster (#481) presetnation at [OHBM](https://humanbrainmapping.org/i4a/pages/index.cfm?pageid=4118) with _[Fernanda de Moraes](https://metabio.netlify.app/members/fernanda-moraes.html)_ and  _[Victor Mello]([https://metabio.netlify.app/members/fernanda-moraes.html](https://metabio.netlify.app/members/victor-mello.html))_ in Glasgow, June 19, 2022 - June 23, 2022.
 
 <!-- - Event 2 -->
 
