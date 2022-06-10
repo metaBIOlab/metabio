@@ -47,14 +47,15 @@ Please fell free to get in touch with any of us regarding this material.
 <!-- {% include list.html component="card" data="events" filters="group: events" style="small" %} -->
 
 ### Coming up
-
-- **[O córtex fractal: Uma análise multi-escalas sugere que todos os cortices cerebrais são aproximações da mesma forma universal](https://youtu.be/hekItEAFHsU)** Paletra de [Bruno Mota](https://metabio.netlify.app/members/bruno-mota.html) para a [Comissao de Física Biológica](https://sites.google.com/view/bio-sbf/in%C3%ADcio/webin%C3%A1rios) da Sociedade Brasileira de Físicas em 2022-06-01 19:00 (Horário de Brasília).
+- **Exploring the limits of a Universal Cortical Folding Model: an application to Congenital Pathologies** - Poster (#481) presetnation at [OHBM] with _[Fernanda de Moraes](https://metabio.netlify.app/members/fernanda-moraes.html)_ and  _[Victor Mello]([https://metabio.netlify.app/members/fernanda-moraes.html](https://metabio.netlify.app/members/victor-mello.html))_ in Glasgow, June 19, 2022 - June 23, 2022.
 
 <!-- - Event 2 -->
 
 <br>
 <br>
 ### Past events
+- **[O córtex fractal: Uma análise multi-escalas sugere que todos os cortices cerebrais são aproximações da mesma forma universal](https://youtu.be/hekItEAFHsU)** Paletra de [Bruno Mota](https://metabio.netlify.app/members/bruno-mota.html) para a [Comissao de Física Biológica](https://sites.google.com/view/bio-sbf/in%C3%ADcio/webin%C3%A1rios) da Sociedade Brasileira de Físicas em 2022-06-01 19:00 (Horário de Brasília).
+
 - **[The fractal cortex: A multi-scale surface-preserving analysis suggests all cortices are approximations of a single universal shape](https://cftc.ciencias.ulisboa.pt/seminar.php?id=505)** [Bruno Mota](https://metabio.netlify.app/members/bruno-mota.html)'s seminar at CFTC, Lisbon on 2022-03-15 15:00.
 
 - **[Multiparametric Compartive Analysis of Structure and Cellular Composition of Cetaceans Brains](https://www.youtube.com/watch?v=YwNYCC35IIE)** (EN) Poster presentation of *[Kamilla Souza](https://metabio.netlify.app/members/kamilla-souza.html)* at the [Society for Integrative and Comparative Biology (SICB)](https://burkclients.com/sicb/meetings/2022/site/) meeting in 2022 (04 jan 2022).
