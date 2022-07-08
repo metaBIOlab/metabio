@@ -4,10 +4,13 @@ image: images/foto34_menor.jpg
 description: Medical Physicist
 role: postdoc
 aliases:
-  - F. H. P. Moraes
-  - F Moraes
+  - F. H. P. de Moraes
+  - F de Moraes
   - MORAES, F. H. P.
   - Fernanda Hansen Pacheco de Moraes
+  - Fernanda H de Moraes
+  - Fernanda Hansen P. de Moraes
+  - Fernanda H. P. de Moraes
 links:
   link: http://lattes.cnpq.br/8205806209163121
   email: fernanda.hansen@idor.org
