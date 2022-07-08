@@ -70,3 +70,15 @@
     - cortical folding 
     - healthy controls
     - neurodegenerative diseases   
+
+- id: doi:10.1101/2022.07.07.499214
+  date: 2022-7-7
+  extra-links:
+    - type: preprint
+      link: https://www.biorxiv.org/content/10.1101/2022.07.07.499214v1
+  tags:
+    - PCA
+    - cortical folding model
+    - cortical folding universal rule
+ 
+
