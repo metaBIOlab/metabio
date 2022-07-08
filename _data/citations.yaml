@@ -145,3 +145,19 @@
   - healthy controls
   - neurodegenerative diseases
   image: https://www.medrxiv.org/content/medrxiv/early/2022/03/13/2022.03.10.22272228/F2.large.jpg
+- id: doi:10.1101/2022.07.07.499214
+  title: Predicting the principal components of cortical morphological variables
+  authors:
+  - Victor B B Mello
+  - Fernanda H de Moraes
+  - Bruno Mota
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-07-07'
+  link: https://doi.org/gqgmzp
+  extra-links:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/2022.07.07.499214v1
+  tags:
+  - PCA
+  - cortical folding model
+  - cortical folding universal rule
