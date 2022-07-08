@@ -6,6 +6,7 @@ role: postdoc
 aliases:
   - Victor Barreto Braga Mello
   - Victor B. B. Mello
+  - Victor B B Mello
   - MELLO, V.
   - V Mello
   - Mello, V.
