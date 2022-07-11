@@ -1,4 +1,4 @@
----
+correct links---
 title: Resources and Tools
 nav:
   order: 2
