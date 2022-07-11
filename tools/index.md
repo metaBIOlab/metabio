@@ -21,7 +21,6 @@ Please fell free to get in touch with any of us regarding this material.
 
 - **[Estimating multifractal spectra with Chhabra-Jensen's method](https://www.lfranca.uk/post/multifractal-chj/)** (EN) _[Lucas França](https://metabio.netlify.app/_members/lucas-franca.html)_ (17 feb 2021)
 <br>
-
 - **[Um homem entre gigantes: Quando a ciência “bate de frente” com a NFL](https://www.blogs.unicamp.br/ensaios/2020/09/23/um-homem-entre-gigantes-quando-a-ciencia-bate-de-frente-com-a-nfl/)** (PT) _[Kamilla Souza](https://metabio.netlify.app/_members/kamilla-souza.html)_ (23 sep 2020)
 
 {% include section.html %}
