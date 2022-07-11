@@ -54,7 +54,7 @@ Please fell free to get in touch with any of us regarding this material.
 <br>
 <br>
 ### Past events
-- **The fractal cortex: A multi scale surface preserving analysis suggests all cortices are approximations of a single universal shape** - [Poster (S02-532)](_posts/2022-07-10-post-10.md) presentation at [FENS](https://forum.fens.org/) with _[Bruno Mota](_members\bruno-mota.md)_ and _Yujiang Wang_ in Paris, July 10, 2022, 2022.
+- **The fractal cortex: A multi scale surface preserving analysis suggests all cortices are approximations of a single universal shape** - [Poster (S02-532)](_posts/2022-07-10-post-10.md) presentation at [FENS](https://forum.fens.org/) with _[Bruno Mota](_members\bruno-mota.md)_ and _Yujiang Wang_ in Paris, July 10, 2022.
 
 - **Exploring the limits of a Universal Cortical Folding Model: an application to Congenital Pathologies** - [Poster (#481)](_posts\2022-05-19-post-8.md) presentation at [OHBM](https://humanbrainmapping.org/i4a/pages/index.cfm?pageid=4118) with _[Fernanda de Moraes](members\fernanda-moraes.md)_ and _[Victor Mello](_members\victor-mello.md)_ in Glasgow, June 19, 2022 - June 23, 2022.
 
