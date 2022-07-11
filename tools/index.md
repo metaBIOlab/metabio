@@ -58,7 +58,7 @@ Please fell free to get in touch with any of us regarding this material.
 
 - **Exploring the limits of a Universal Cortical Folding Model: an application to Congenital Pathologies** - [Poster (#481)](/_posts/2022-05-19-post-8.md) presentation at [OHBM](https://humanbrainmapping.org/i4a/pages/index.cfm?pageid=4118) with _[Fernanda de Moraes](/_members/fernanda-moraes.md)_ and _[Victor Mello](/_members/victor-mello.md)_ in Glasgow, June 19, 2022 - June 23, 2022.
 
-- **[O córtex fractal: Uma análise multi-escalas sugere que todos os cortices cerebrais são aproximações da mesma forma universal](https://youtu.be/hekItEAFHsU)** Paletra de [Bruno Mota](/_members/bruno-mota.md) para a [Comissao de Física Biológica](https://sites.google.com/view/bio-sbf/in%C3%ADcio/webin%C3%A1rios) da Sociedade Brasileira de Físicas em 2022-06-01 19:00 (Horário de Brasília).
+- **[O córtex fractal: Uma análise multi-escalas sugere que todos os cortices cerebrais são aproximações da mesma forma universal](https://youtu.be/hekItEAFHsU)** Palestra de [Bruno Mota](/_members/bruno-mota.md) para a [Comissao de Física Biológica](https://sites.google.com/view/bio-sbf/in%C3%ADcio/webin%C3%A1rios) da Sociedade Brasileira de Físicas em 2022-06-01 19:00 (Horário de Brasília).
 
 - **[The fractal cortex: A multi-scale surface-preserving analysis suggests all cortices are approximations of a single universal shape](https://cftc.ciencias.ulisboa.pt/seminar.php?id=505)** [Bruno Mota](/_members/bruno-mota.md)'s seminar at CFTC, Lisbon on 2022-03-15 15:00.
 
