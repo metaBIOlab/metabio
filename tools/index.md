@@ -54,6 +54,7 @@ Please fell free to get in touch with any of us regarding this material.
 <br>
 <br>
 ### Past events
+
 - **The fractal cortex: A multi scale surface preserving analysis suggests all cortices are approximations of a single universal shape** - [Poster (S02-532)](https://metabio.netlify.app/2022/07/10/post-10.html) presentation at [FENS](https://forum.fens.org/) with _[Bruno Mota](https://metabio.netlify.app/members/bruno-mota.html)_ and _Yujiang Wang_ in Paris, July 10, 2022.
 
 - **Exploring the limits of a Universal Cortical Folding Model: an application to Congenital Pathologies** - [Poster (#481)](https://metabio.netlify.app/2022/05/19/post-8.html) presentation at [OHBM](https://humanbrainmapping.org/i4a/pages/index.cfm?pageid=4118) with _[Fernanda de Moraes](https://metabio.netlify.app/members/fernanda-moraes.html)_ and _[Victor Mello](https://metabio.netlify.app/members/victor-mello.html)_ in Glasgow, June 19, 2022 - June 23, 2022.
