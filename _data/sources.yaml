@@ -59,17 +59,17 @@
     - cortical folding 
     - neurodegenerative diseases
     
-- id: doi:10.1101/2022.03.10.22272228
-  image: https://www.medrxiv.org/content/medrxiv/early/2022/03/13/2022.03.10.22272228/F2.large.jpg
-  date: 2022-3-13
+- id: doi:10.3389/fnins.2022.897226
+  date: 2022-7-18
   extra-links:
-    - type: preprint
-      link: https://www.medrxiv.org/content/10.1101/2022.03.10.22272228
+    - type: journal
+      link: https://www.frontiersin.org/articles/10.3389/fnins.2022.897226/full
   tags:
-    - brain morphology
-    - cortical folding 
-    - healthy controls
-    - neurodegenerative diseases   
+    - cortical folding
+    - aging
+    - neurodegenerative diseases
+    - harmonization
+    - baseline estimation
 
 - id: doi:10.1101/2022.07.07.499214
   date: 2022-7-7
