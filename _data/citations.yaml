@@ -125,25 +125,26 @@
   - cortical folding
   - neurodegenerative diseases
   image: https://www.medrxiv.org/content/medrxiv/early/2022/01/12/2022.01.10.22268812/F1.large.jpg
-- id: doi:10.1101/2022.03.10.22272228
+- id: 10.3389/fnins.2022.897226/full
   title: 'Establishing a baseline for human cortical folding morphological variables:
     a multicenter study'
   authors:
-  - Fernanda Hansen Pacheco de Moraes
+  - Fernanda H. P. de Moraes
   - Victor B. B. Mello
   - Fernanda Tovar-Moll
   - Bruno Mota
-  publisher: medRxiv
-  date: '2022-03-13'
+  publisher: Frontiers in Neuroscience
+  date: '2022-07-18'
   link: https://doi.org/gppvjw
   extra-links:
-  - type: preprint
-    link: https://www.medrxiv.org/content/10.1101/2022.03.10.22272228
+  - type: jounal
+    link: https://www.frontiersin.org/articles/10.3389/fnins.2022.897226/full
   tags:
-  - brain morphology
   - cortical folding
-  - healthy controls
-  - neurodegenerative diseases
+  - aging
+  - "Alzheimer\u2019s Disease"
+  - harmonization
+  - baseline estimation
   image: https://www.medrxiv.org/content/medrxiv/early/2022/03/13/2022.03.10.22272228/F2.large.jpg
 - id: doi:10.1101/2022.07.07.499214
   title: Predicting the principal components of cortical morphological variables
@@ -151,7 +152,7 @@
   - Victor B B Mello
   - Fernanda H de Moraes
   - Bruno Mota
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2022-07-07'
   link: https://doi.org/gqgmzp
   extra-links:
