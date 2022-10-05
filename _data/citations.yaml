@@ -162,3 +162,26 @@
   - PCA
   - cortical folding model
   - cortical folding universal rule
+- id: doi:10.48550/arXiv.2209.08066
+  title: Neuro-evolutionary evidence for a universal fractal primate brain shape
+  authors:
+  - Yujiang Wang
+  - Karoline Leiberg
+  - Nathan Kindred
+  - Christopher R. Madan
+  - Colline Poirier
+  - Christopher I. Petkov,
+  - Peter N. Taylor
+  - Bruno C. C. Mota
+  publisher: aRxiv
+  date: '2022-09-16'
+  link: https://arxiv.org/abs/2209.08066
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/abs/2209.08066
+  tags:
+  - brain morphology
+  - cortical folding 
+  - cortical folding model
+  - cortical folding universal rule
+  - compared neuroanatomy
