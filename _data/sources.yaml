@@ -82,13 +82,13 @@
     - cortical folding universal rule
     - compared neuroanatomy
   
- - id: doi:10.48550/arXiv.2209.08066
-    date: 2022-9-16
-    extra-links:
-      - type: preprint
-        link: https://arxiv.org/abs/2209.08066
-    tags:
-      - brain morphology
-      - cortical folding 
-      - cortical folding model
-      - compared neuroanatomy
+- id: doi:10.48550/arXiv.2209.08066
+  date: 2022-9-16
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/abs/2209.08066
+  tags:
+    - brain morphology
+    - cortical folding 
+    - cortical folding model
+    - compared neuroanatomy
