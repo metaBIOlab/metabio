@@ -1,4 +1,5 @@
 - id: doi:10.1016/j.neuroimage.2020.117546
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811920310314-gr3_lrg.jpg
   date: 2021-2-1
   extra-links:
     - type: journal
@@ -81,3 +82,13 @@
     - cortical folding universal rule
     - compared neuroanatomy
 
+- id: doi:10.48550/arXiv.2209.08066
+  date: 2022-9-16
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/abs/2209.08066
+  tags:
+    - brain morphology
+    - cortical folding 
+    - cortical folding model
+    - compared neuroanatomy
