@@ -30,4 +30,6 @@ collaborator:
   icon: fas fa-lightbulb
   text: Collaborator
   
-
+formerstudent:
+  icon: fas fa-backward
+  text: Former student
