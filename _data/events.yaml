@@ -18,3 +18,10 @@
   link: https://www.wolfram.com/broadcast/video.php?c=104&v=3349&disp=grid&&ob=date&o=DESC
   description: PT [Bruno Mota](bruno-mota) para Virtual Wolfram Technology Conference Brasil (12 nov 2020).
   repo: greenelab/lab-website-template
+
+- name: Universality, fractality and a new morphological syntax for the cerebral cortex 
+  group: events
+  image: images/bruno_sissa.jpg
+  link: https://www.sissa.it/news/universality-fractality-and-new-morphological-syntax-cerebral-cortex-bruno-mota
+  description: EN [Bruno Mota](bruno-mota) for the next SISSA Colloquium will be held February 23rd at 16:30 in room 128-129.
+  repo: greenelab/lab-website-template
