@@ -2,7 +2,7 @@
 name: Christiane Bonifácio
 image: images/Chris.jpeg
 description: Biologist
-role: undergrad
+role: formerstudent
 aliases:
   - Christiane Bonifácio
 links:
