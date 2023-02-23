@@ -18,7 +18,7 @@ links:
 
 ---
 
-Hello, I am Fernanda Hansen P. de Moraes, a postdoctoral researcher supervised by Bruno Mota and [Fernanda Tovar-Moll](https://www.tovar-moll.com/).
+Hello, I am Fernanda Hansen P. de Moraes, funded by the Serrapilheira grant, a postdoctoral researcher supervised by Bruno Mota and [Fernanda Tovar-Moll](https://www.tovar-moll.com/).
 I have a Bsc in Medical Physics (UFRJ/BHT-Berlin), PhD in Medical Sciences from [Instituto D'Or de Pesquisa e Ensino, IDOR](https://www.rededorsaoluiz.com.br/instituto/idor), and working experience in Imaging Physics.
 
 I am currently working with Cortical Folding patterns in humans. We verify its universality (and escaping) across healthy aging, neurodegenerative pathologies (Alzheimer's Disease and Mild Cognitive Impairment), and congenital malformations (Corpus Callosum Disgenesis and Congenital Zika Syndrome).
