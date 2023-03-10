@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "netlify": "^13.1.2"
+  },
+  "name": "metabio",
+  "description": "<h1 align=\"center\">Lab Website Template</h1>\r <p align=\"center\">\r <img height=\"200\" src=\"https://raw.githubusercontent.com/greenelab/lab-website-template/main/images/share.jpg?raw=true\" alt=\"Lab Website Template\">\r </p>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
