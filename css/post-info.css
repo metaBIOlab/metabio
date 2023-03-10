@@ -1,0 +1,21 @@
+.post_info {
+  margin: 20px 0;
+  color: #9e9e9e;
+}
+.post_info:first-child {
+  margin-top: 0;
+}
+.post_info:last-child {
+  margin-bottom: 0;
+}
+.post_info > span {
+  display: inline-block;
+  margin: 0 10px;
+  text-align: center;
+  white-space: nowrap;
+}
+.post_info > span i.fas, .post_info > span i.far, .post_info > span i.fab, .post_info > span i.fal, .post_info > span i.fad, .post_info > span svg {
+  margin-right: 0.75em;
+}
+
+/*# sourceMappingURL=post-info.css.map */

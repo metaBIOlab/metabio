@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["quote.scss"],"names":[],"mappings":"AAIA;EACE;EACA;EACA","sourcesContent":["@import \"palettes\";\n@import \"theme\";\n@import \"mixins\";\n\nblockquote {\n  margin: 0;\n  padding: 10px 20px;\n  border: dotted 2px $gray-500;\n}\n"],"file":"quote.css"}

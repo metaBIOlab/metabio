@@ -1,0 +1,70 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 30px;
+  color: #ffffff;
+  background: #424242;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.1882352941);
+}
+header * {
+  font-family: "Poppins", sans-serif;
+}
+header .logo_row {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+header .logo_row .logo {
+  max-width: 100%;
+  height: 50px;
+}
+header .logo_row .logo_text {
+  margin: 10px;
+  font-size: 1.5rem;
+  text-align: center;
+}
+header .nav_row {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.9rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+header .nav_row:hover .link {
+  opacity: 0.25;
+}
+header .nav_row .link:hover {
+  opacity: 1;
+}
+header a {
+  color: currentColor;
+  text-decoration: none;
+}
+@media (max-width: 900px) {
+  header {
+    align-content: center;
+  }
+  header .logo_row,
+  header .nav_row {
+    width: 100%;
+  }
+}
+@media (max-width: 600px) {
+  header .logo_row {
+    flex-direction: column;
+  }
+  header .nav_row {
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+  }
+  header .nav_row .link {
+    width: 100%;
+  }
+}
+
+/*# sourceMappingURL=header.css.map */

@@ -1,0 +1,48 @@
+.feature {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px 0;
+}
+.feature:first-child {
+  margin-top: 0;
+}
+.feature:last-child {
+  margin-bottom: 0;
+}
+.feature .feature_image {
+  width: 360px;
+  flex-shrink: 0;
+}
+.feature .feature_image img {
+  width: 100%;
+}
+.feature:nth-child(odd) .feature_image {
+  order: -1;
+  margin-right: 40px;
+}
+.feature:nth-child(even) .feature_image {
+  order: 1;
+  margin-left: 40px;
+}
+.feature .feature_headline {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  text-align: center;
+}
+@media (max-width: 800px) {
+  .feature {
+    flex-direction: column;
+  }
+  .feature .feature_image {
+    order: unset !important;
+    width: unset !important;
+    margin: 0 !important;
+    margin-bottom: 20px !important;
+  }
+  .feature .feature_image .feature_text {
+    width: unset !important;
+  }
+}
+
+/*# sourceMappingURL=feature.css.map */

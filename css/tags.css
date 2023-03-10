@@ -1,0 +1,25 @@
+.tags {
+  max-width: 100%;
+}
+.tags .tag {
+  display: inline-block;
+  max-width: 100%;
+  margin: 5px;
+  padding: 5px 15px;
+  border-radius: 999px;
+  color: #000000;
+  background: #81d4fa;
+  text-decoration: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  transition: background 0.25s ease;
+}
+.tags .tag:hover {
+  background: #9e9e9e;
+}
+.tags .tag[data-highlight=true] {
+  background: #03a9f4;
+}
+
+/*# sourceMappingURL=tags.css.map */

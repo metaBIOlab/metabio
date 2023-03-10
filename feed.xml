@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/metabio/feed.xml" rel="self" type="application/atom+xml" /><link href="/metabio/" rel="alternate" type="text/html" /><updated>2023-03-10T03:46:46+00:00</updated><id>/metabio/feed.xml</id><title type="html">Lab Website Template</title><subtitle>An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.</subtitle><entry><title type="html">Example post 3</title><link href="/metabio/2023/02/23/example-post-3.html" rel="alternate" type="text/html" title="Example post 3" /><published>2023-02-23T00:00:00+00:00</published><updated>2023-03-10T03:44:45+00:00</updated><id>/metabio/2023/02/23/example-post-3</id><content type="html" xml:base="/metabio/2023/02/23/example-post-3.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>john-doe</name></author><category term="biology," /><category term="medicine" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry><entry><title type="html">FENS2022 Poster from metaBIO researchers!</title><link href="/metabio/2022/07/10/post-10.html" rel="alternate" type="text/html" title="FENS2022 Poster from metaBIO researchers!" /><published>2022-07-10T00:00:00+00:00</published><updated>2023-03-10T03:44:45+00:00</updated><id>/metabio/2022/07/10/post-10</id><content type="html" xml:base="/metabio/2022/07/10/post-10.html"><![CDATA[<p>Hi, this is the poster presented by <strong><a href="https://metabio.netlify.app/members/bruno-mota.html">Dr. Bruno Mota</a></strong><sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> and Dr. Yujiang Wang<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> at FENS2022 in Paris.</p>
+
+<p><strong>Abstract:</strong></p>
+
+<p>The mammalian cerebral cortex is probably one of the most complex structures ever studied by science. At first glance, any attempt to express its diversity, or significant features thereof, from universal principles, would seem doomed to failure. Indeed, there are many ways of comparing the morphological features of cerebral cortices. In what follows, working from first principles, we will express cortical morphology using a more natural set of variables across length scales, rather than across spatial position. We will introduce an algorithm for ‘melting’ cortical shape that erases structural features smaller than a set scale while maintaning surface self-avoidance and topological structure, and show that this process occurs in a universal self-similar manner. Using this new framework, we will finally show that the morphology of all cerebral cortices analyzed so far, across both mammalian species and individuals, are approximations of a single, universal fractal shape; and that the main distinction between different cortical shapes is the range of scales at which this approximation remains valid. This universal description of the cortical shape is at the same time mechanistically insightful and in full agreement with empirical data across species and individuals. Prospectively, we hope this new framework for expressing and analyzing cortical morphology, besides revealing a hitherto hidden regularity of nature, can become a powerful tool to characterize and compare cortices of different species and individuals, across development and aging, and across health and disease.</p>
+
+<figure class="figure">
+  <a href="/poster/FENS_2022_BM.png" class="fix_image">
+    <img src="/poster/FENS_2022_BM.png" style="min-width: 560px;" loading="lazy" />
+    </a>
+</figure>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Instituto de Física - Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Interdisciplinary Computing and Complex BioSystems (ICOS), School of Computing, Newcastle University, Newcastle upon Tyne, UK <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name>Bruno Mota</name></author><category term="events" /><summary type="html"><![CDATA[Hi, this is the poster presented by Dr. Bruno Mota1 and Dr. Yujiang Wang2 at FENS2022 in Paris. Instituto de Física - Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil &#8617; Interdisciplinary Computing and Complex BioSystems (ICOS), School of Computing, Newcastle University, Newcastle upon Tyne, UK &#8617;]]></summary></entry><entry><title type="html">Menção Honrosa para apresentação oral na 11a SIAC UFRJ!</title><link href="/metabio/2022/05/31/post-9.html" rel="alternate" type="text/html" title="Menção Honrosa para apresentação oral na 11a SIAC UFRJ!" /><published>2022-05-31T00:00:00+00:00</published><updated>2023-03-10T03:44:45+00:00</updated><id>/metabio/2022/05/31/post-9</id><content type="html" xml:base="/metabio/2022/05/31/post-9.html"><![CDATA[<p>Reconhecimento merecido!</p>
+
+<p>Com autoria da aluna de IC Christiane Coelho e sua co-supervisora Kamilla Souza (PCM-UFRJ), o trabalho “Análise morfológica e histológica de cetáceos coletados no Brasil” foi apresentado oralmente na 11a SIAc/UFRJ, onde recebeu o prêmio de menção honrosa.</p>
+
+<p>O trabalho se insere em um estudo comparativo sistemático de aspectos da morfologia cerebral entre cetáceos (baleias e golfinhos), com foco nas similaridades e diferenças morofológicas que podem ter ocorrido em encefálos de golfinhos de rio vs golfinhos de água salgada ao longo da evolução. Para a realização deste projeto, foi estabelecida uma rede de colaboração que conta com 14 instituições de pesquisa ao longo do país e mais de 10 espécies diferentes em nossa coleção.</p>
+
+<p>O trabalho é conduzido no Laboratório de Matemática Experimental e Biologia Teórica (metaBIO, IF-UFRJ), sob orientação do Prof. Bruno Mota.</p>
+
+<figure class="figure">
+  <a class="fix_image">
+    <img src="/images/mencaohonrosaSIACUFRJ.jpeg" style="" loading="lazy" />
+    </a>
+</figure>]]></content><author><name>Kamilla Souza</name></author><category term="events" /><summary type="html"><![CDATA[Reconhecimento merecido!]]></summary></entry><entry><title type="html">OHBM2022 Poster and Supplementary Information from metaBIO researchers!</title><link href="/metabio/2022/05/19/post-8.html" rel="alternate" type="text/html" title="OHBM2022 Poster and Supplementary Information from metaBIO researchers!" /><published>2022-05-19T00:00:00+00:00</published><updated>2023-03-10T03:44:45+00:00</updated><id>/metabio/2022/05/19/post-8</id><content type="html" xml:base="/metabio/2022/05/19/post-8.html"><![CDATA[<p>Hello, you probably got here from the QR code on our OHBM2022 poster. Welcome! If not, you are welcome too :D</p>
+
+<figure class="figure">
+  <a href="/poster/deMoraes_MT183.png" class="fix_image">
+    <img src="/poster/deMoraes_MT183.png" style="min-width: 560px;" loading="lazy" />
+    </a>
+</figure>
+
+<p><strong>Short Abstract</strong>:</p>
+
+<p>In this work, we explored the limits of a Universal Cortical Folding Model by applying it to Congenital Pathologies, which was proposed by Mota &amp; Herculano-Houzel in 2015. They provided a theory for cortical folding based on physical principles. Empirical evidence of this theory is found for more than 50 mammals is a power-law relation of cortical thickness and areas and leads to a constrain in cortical folding. From that assumption, mammals’ cortices must follow this power-law relation, including human cortices. We then explored how congenital pathologies that can lead to extreme brain structural alterations behave in this model and the vector base derived from it. This new vector base represents three aspects of cortical folding, the axonal tension term K, the isometric volume I, and the shape complexity term S. We selected 82 healthy controls, 59 subjects with Corpus Callosum Dysgenesis, 11 subjects with Zika Congenital Syndrome (ZK), and two subjects with microcephaly without TORCH-Zika cause. Individuals with CCD were born with an atrophied or non-existent Corpus Callosum. In ZK, injuries to brain structure vary according to the disease severity and prenatal age at exposure, with most severe cases exhibiting microcephaly and lissencephaly-like cortices. We conclude from the presented preliminary results that the universal model of cortical folding applies even in cases of extensive structural alterations that impact morphological measures of axonal tension and brain shape and match the theoretical value of the scaling index (α).</p>
+
+<p><strong>Supplementary Information</strong> for the work “Exploring the limits of a Universal Cortical Folding Model: an application to Congenital Pathologies” from <strong><a href="https://metabio.netlify.app/members/fernanda-moraes.html">Fernanda Hansen P. de Moraes</a><sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup><sup>,</sup><sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup><sup>,</sup><sup id="fnref:a" role="doc-noteref"><a href="#fn:a" class="footnote" rel="footnote">3</a></sup></strong>, <a href="https://metabio.netlify.app/members/caroline-lima.html">Caroline Victorino Felix de Lima</a><sup id="fnref:1:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>, <strong><a href="https://metabio.netlify.app/members/victor-mello.html">Victor B. B. Mello</a><sup id="fnref:2:1" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup><sup>,</sup><sup id="fnref:a:1" role="doc-noteref"><a href="#fn:a" class="footnote" rel="footnote">3</a></sup></strong>, Patricia Soares de Oliveira-Szejnfeld<sup id="fnref:1:2" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup><sup>,</sup><sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">4</a></sup>, Arnaldo Prata-Barbosa<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">5</a></sup>, Leighton Hinkley<sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnote" rel="footnote">6</a></sup>, Elliot Sherr<sup id="fnref:5:1" role="doc-noteref"><a href="#fn:5" class="footnote" rel="footnote">6</a></sup>, Lynn K. Paul<sup id="fnref:6" role="doc-noteref"><a href="#fn:6" class="footnote" rel="footnote">7</a></sup>, Fernanda Tovar-Moll<sup id="fnref:1:3" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>, Bruno Mota<sup id="fnref:2:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>.</p>
+
+<p>We want to include some additional information regarding the presented research. This will be divided into topics: 1) Previous findings by applying the cortical folding rule in humans; 2) Description of Corpus Callosum Dysgenesis and Congenital Zika Syndrom; 3) Simulated data used; and 4) Limitations.</p>
+
+<h1 id="previous-findings-by-applying-the-cortical-folding-rule-in-humans-giving-the-context-of-what-we-know-by-far">Previous findings by applying the cortical folding rule in humans (giving the context of what we know by far)</h1>
+
+<p>In the last years a few publications explored the Mota &amp; Herculano-Houzel cortical folding model (Mota and Herculano-Houzel 2015) and its derived variables in humans (Wang et al. 2021). What we know:</p>
+<ul>
+  <li>The cortical folding model is valid for multiple subjects of one specie, even when accounted for differences in sexes, age, and some pathologies (Wang et al. 2016);</li>
+  <li>The model is valid for the hemispheres and lobes (Wang et al. 2019);</li>
+  <li>The empirical self-similarity slope reaches the theoretical value for healthy teens and adults (de Moraes et al. 2022);</li>
+  <li>The use of K, S, and I allows the characterization of brain morphology naturally, and might further help distinguish similar events (as aging and neurodegeneration) (de Moraes 2021b; Wang et al. 2016; 2021);</li>
+  <li>There is a reduction of K (indicating reduced cortical folding) with age;</li>
+  <li>There is also a reduction of K, in an accelerated or premature form, in Alzheimer’s Disease (pathological neurodegeneration) (de Moraes 2021b; de Moraes et al. 2022; Wang et al. 2016);</li>
+  <li>Alterations in cortical folding (K)  have been correlated with alterations in dementia CSF biomarkers and cognitive assessments (de Moraes 2021b).</li>
+</ul>
+
+<h1 id="description-of-corpus-callosum-dysgenesis-and--congenital-zika-syndrom">Description of Corpus Callosum Dysgenesis and  Congenital Zika Syndrom</h1>
+
+<h2 id="corpus-callosum-dysgenesis">Corpus Callosum Dysgenesis</h2>
+<p>“Developmental malformations (dysgenesis) of the corpus callosum (CCD) lead to neurological conditions with a broad range of clinical presentations, from entirely asymptomatic to severely handicapped subjects (1). In addition, CCD subjects often fit into the autism spectrum (1,2). When not linked to embryonically lethal causes, CCD usually falls into one of three different phenotypes: complete dysgenesis, also known as agenesis (CA); partial dysgenesis, which preserves a small remnant of the corpus callosum (CC; usually the genu); and hypoplasia (HP), with an anatomically typical but shortened CC (1,3). Although previous studies described the heterogeneous anatomical phenotypes of CCD patients and their neuropsychological presentations, the relationship between the altered structural brain wiring in CCD and the subsequent adaptive and maladaptive functional connectivity changes is still a subject of active research (3,4).” (direct citation from Szczupak et al. 2021)</p>
+
+<p>For an extensive review, please see (Paul et al. 2007).</p>
+
+<h2 id="congenital-zika-syndrom">Congenital Zika Syndrom</h2>
+<p>The Brazilian ZIKV epidemic began in late 2015 and quickly drew worldwide attention. In 2016, the World Health Organization declared ZIKV infection epidemics a public health threat of international concern, specifically because of their association with fetal/neonatal microcephaly and other neurodevelopment anomalies.</p>
+
+<p>Brains of fetuses and neonates with CZS are characterized by neurodevelopmental malformations, in multiple severities. Although imaging and clinical findings are not specific to ZIKV, some findings were very common and highly prevalent in several reported studies with different cohorts. Among the most striking findings were microcephaly, gyral simplification, including pachygyria and agyria, hydrocephalus with hypoplastic brainstem and aqueduct stenosis, ribbon cortical/subcortical calcification, cortical dysplasia, cortical development abnormalities, hypoplastic or dysgenesis of the corpus callosum, arthrogryposis and anterior spinal cord malformation (Soares de Oliveira-Szejnfeld et al. 2016; Melo et al. 2016; Chimelli et al. 2017).</p>
+
+<h1 id="simulated-data-used">Simulated data used</h1>
+<p>We simulated data using subjects below 30 years from (de Moraes 2021; Wang et al. 2019),  a subsample of the Baby Connectome Project (BCP) (Howell et al. 2019), and 34 CNT participants who fitted this condition. We generated 10000 data points of A<sub>T</sub>, A<sub>E</sub>, and T a covariance matrix of A<sub>T</sub>, A<sub>E</sub>, T, and Age to account for the dependence within those variables. We further filtered the generated data to the age range of the ZK and MICRO groups (2; 3.1 years old) (Table 1).</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sample</th>
+      <th>N</th>
+      <th>Age ± SD (range)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AHEAD</td>
+      <td>1</td>
+      <td>24 ± 0 (24)</td>
+    </tr>
+    <tr>
+      <td>AOMIC PIOP 1</td>
+      <td>208</td>
+      <td>22 ± 1.8 (18; 26)</td>
+    </tr>
+    <tr>
+      <td>BCP</td>
+      <td>33</td>
+      <td>1.7 ± 0.68 (0.92; 4.7)</td>
+    </tr>
+    <tr>
+      <td>CALTECH</td>
+      <td>17</td>
+      <td>23 ± 2.9 (19; 29)</td>
+    </tr>
+    <tr>
+      <td>IDOR-CCD</td>
+      <td>5</td>
+      <td>11 ± 3.1 (7; 16)</td>
+    </tr>
+    <tr>
+      <td>UCSF</td>
+      <td>12</td>
+      <td>23 ± 3.1 (19; 28)</td>
+    </tr>
+    <tr>
+      <td>Simulated</td>
+      <td>1156</td>
+      <td>3  ± 0.58 (2; 4)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>Table 1. Dataset used for simulation and the simulated result description.</em></p>
+
+<p>To ensure the simulated data was adequate, we applied the cortical folding model. The simulated data fitted the linear model with R<sup>2</sup> = 0.87, p &lt; 0.0001 and self-similarity exponent of 1.25 (95% CI 1.23; 1.28) (Figure 1).</p>
+
+<p><img src="https://user-images.githubusercontent.com/29574261/171744817-48e06d9f-1251-489a-b46e-3bdba07fadd4.png" alt="Rplot" /></p>
+
+<p><em>Figure 1. The cortical folding model and the simulated data. The blue line represents the linear regression of the simulated data, while the red line is the linear regression of true data used as a reference for the simulation, and the dashed red lines represent the confidence interval of the true regression.</em></p>
+
+<h1 id="limitations">Limitations</h1>
+<p>We intended here to provide preliminary results from an incipient study relating congenital pathologies and cortical folding. Thus we still have some limitations to overcome.</p>
+
+<p>Due to the inherent characteristics of these pathologies that might lead to extreme alterations in brain structure, our image processing pipeline is not optimal<sup id="fnref:7" role="doc-noteref"><a href="#fn:7" class="footnote" rel="footnote">8</a></sup>. To overcome this limitation, and not include more uncertainties due to manually correcting surfaces from all subjects (including the ones that it was not necessary), we intend to correct subjects under the supervision of an experient radiologist, and only those with extensive surface errors. Also, without the correction, the surfaces could disguise differences, for example, between DCC types, as it might not have been sensible enough to the anatomical differences across our heterogenic sample. The processing limitation is also true for the BCP sample, in which only a subsample is processed and went under visual inspection. We expect to include all subjects from the sample in future presentations of this study.</p>
+
+<p>Our second main limitation is related to the simulated sample. We simulated data using linear functions of T, A<sub>T</sub>, A<sub>E</sub> extracted from 0 to 30 years old, including them, adults. This is probably not the optimal methodology, but the one workable within this context and sample size. We expect to improve those linear functions by including more subjects, as an expansion of our previous work (de Moraes et al. 2022).</p>
+
+<h1 id="bibliography">Bibliography</h1>
+
+<p>Chimelli, Leila, Adriana S. O. Melo, Elyzabeth Avvad-Portari, Clayton A. Wiley, Aline H. S. Camacho, Vania S. Lopes, Heloisa N. Machado, et al. 2017. “The Spectrum of Neuropathological Changes Associated with Congenital Zika Virus Infection.” Acta Neuropathologica 133 (6): 983–99. https://doi.org/10.1007/s00401-017-1699-5.</p>
+
+<p>Howell, Brittany R., Martin A. Styner, Wei Gao, Pew-Thian Yap, Li Wang, Kristine Baluyot, Essa Yacoub, et al. 2019. “The UNC/UMN Baby Connectome Project (BCP): An Overview of the Study Design and Protocol Development.” NeuroImage 185 (January): 891–905. https://doi.org/10.1016/j.neuroimage.2018.03.049.</p>
+
+<p>Kliemann, Dorit, Ralph Adolphs, Tim Armstrong, Paola Galdi, David A. Kahn, Tessa Rusch, A. Zeynep Enkavi, et al. 2022. “Caltech Conte Center, a Multimodal Data Resource for Exploring Social Cognition and Decision-Making.” Scientific Data 9 (1): 138. https://doi.org/10.1038/s41597-022-01171-2.</p>
+
+<p>Melo, Adriana Suely de Oliveira, Renato Santana Aguiar, Melania Maria Ramos Amorim, Monica B. Arruda, Fabiana de Oliveira Melo, Suelem Taís Clementino Ribeiro, Alba Gean Medeiros Batista, et al. 2016. “Congenital Zika Virus Infection: Beyond Neonatal Microcephaly.” JAMA Neurology 73 (12): 1407–16. https://doi.org/10.1001/jamaneurol.2016.3720.</p>
+
+<p>de Moraes, Fernanda Hansen Pacheco. 2021a. “OpenData for the Independent Morphological Variables Correlate to Aging, Mild Cognitive Impairment, and Alzheimer’s Disease Manuscript.” Zenodo. https://doi.org/10.5281/zenodo.5750619.</p>
+
+<p>———. 2021b. Independent Morphological Variables Correlate to Aging, Mild Cognitive Impairment, and Alzheimer’s Disease - Analysis Code (version 0.1). FHPdeMoraes_thesis. https://github.com/metaBIOlab/FHPdeMoraes_thesis. https://github.com/metaBIOlab/FHPdeMoraes_thesis.</p>
+
+<p>de Moraes, Fernanda Hansen Pacheco, Victor B. B. Mello, Fernanda Tovar-Moll, and Bruno Mota. 2022. “Establishing a Baseline for Human Cortical Folding Morphological Variables: A Multicenter Study.” MedRxiv. https://doi.org/10.1101/2022.03.10.22272228.</p>
+
+<p>Mota, Bruno, and Suzana Herculano-Houzel. 2015. “Cortical Folding Scales Universally with Surface Area and Thickness, Not Number of Neurons.” Science 349 (6243): 74–77. https://doi.org/10.1126/science.aaa9101.</p>
+
+<p>Paul, Lynn K., Warren S. Brown, Ralph Adolphs, J. Michael Tyszka, Linda J. Richards, Pratik Mukherjee, and Elliott H. Sherr. 2007. “Agenesis of the Corpus Callosum: Genetic, Developmental and Functional Aspects of Connectivity.” Nature Reviews Neuroscience 8 (4): 287–99. https://doi.org/10.1038/nrn2107.</p>
+
+<p>Soares de Oliveira-Szejnfeld, Patricia, Deborah Levine, Adriana Suely de Oliveira Melo, Melania Maria Ramos Amorim, Alba Gean M. Batista, Leila Chimelli, Amilcar Tanuri, et al. 2016. “Congenital Brain Abnormalities and Zika Virus: What the Radiologist Can Expect to See Prenatally and Postnatally.” Radiology 281 (1): 203–18. https://doi.org/10.1148/radiol.2016161584.</p>
+
+<p>Szczupak, Diego, Marina Kossmann Ferraz, Lucas Gemal, Patricia S Oliveira-Szejnfeld, Myriam Monteiro, Ivanei Bramati, Fernando R Vargas, et al. 2021. “Corpus Callosum Dysgenesis Causes Novel Patterns of Structural and Functional Brain Connectivity.” Brain Communications 3 (2): fcab057. https://doi.org/10.1093/braincomms/fcab057.</p>
+
+<p>Wang, Yujiang, Karoline Leiberg, Tobias Ludwig, Bethany Little, Joe H Necus, Gavin Winston, Sjoerd B Vos, et al. 2021. “Independent Components of Human Brain Morphology.” NeuroImage 226 (February): 117546. https://doi.org/10.1016/j.neuroimage.2020.117546.</p>
+
+<p>Wang, Yujiang, Joe Necus, Marcus Kaiser, and Bruno Mota. 2016. “Universality in Human Cortical Folding in Health and Disease.” Proceedings of the National Academy of Sciences 113 (45): 12820–25. https://doi.org/10.1073/pnas.1610175113.</p>
+
+<p>Wang, Yujiang, Joe Necus, Luis Peraza Rodriguez, Peter Neal Taylor, and Bruno Mota. 2019. “Human Cortical Folding across Regions within Individual Brains Follows Universal Scaling Law.” Communications Biology 2 (1): 191. https://doi.org/10.1038/s42003-019-0421-7.</p>
+
+<h1 id="footnotes">Footnotes</h1>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Brain Connectivity Unit, Instituto D’Or de Pesquisa e Ensino (IDOR), Rio de Janeiro, Brazil <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:1:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a> <a href="#fnref:1:2" class="reversefootnote" role="doc-backlink">&#8617;<sup>3</sup></a> <a href="#fnref:1:3" class="reversefootnote" role="doc-backlink">&#8617;<sup>4</sup></a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Instituto de Física - Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:2:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a> <a href="#fnref:2:2" class="reversefootnote" role="doc-backlink">&#8617;<sup>3</sup></a></p>
+    </li>
+    <li id="fn:a" role="doc-endnote">
+      <p>Presenting in person in Glasgow :D and correspondents: <em>fernanda.hansen@idor.org</em> and <em>vbraga@pos.if.ufrj.br</em> <a href="#fnref:a" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:a:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>Departamento de Diagnóstico por Imagem da Universidade Federal de São Paulo (UNIFESP), São Paulo, Brazil <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:4" role="doc-endnote">
+      <p>Departamento de Pediatria, Instituto D’Or de Pesquisa e Ensino (IDOR), Rio de Janeiro, Brazil <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:5" role="doc-endnote">
+      <p>Brain Development Research Program, University of California San Francisco (UCSF), San Francisco, CA, USA <a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:5:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a></p>
+    </li>
+    <li id="fn:6" role="doc-endnote">
+      <p>Division of Humanities and Social Sciences, California Institute of Technology, Pasadena, CA, USA <a href="#fnref:6" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:7" role="doc-endnote">
+      <p>Kliemann et al. 2022 recently described limitations in FreeSurfer automatic tracing and examples of needed manual edition for healthy individuals in the Caltech Conte Center, what give us a red alarm in neuroatypical subjects with major alterations in brain structure. <a href="#fnref:7" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name>Fernanda Hansen P. de Moraes, Caroline Victorino Felix de Lima and Victor B. B. Mello</name></author><category term="events" /><summary type="html"><![CDATA[Hello, you probably got here from the QR code on our OHBM2022 poster. Welcome! If not, you are welcome too :D]]></summary></entry><entry><title type="html">Dr. Rodrigo C. V. Coelho presents “Nutrients dispersion in bacterial swarms”</title><link href="/metabio/2022/05/09/post-7.html" rel="alternate" type="text/html" title="Dr. Rodrigo C. V. Coelho presents “Nutrients dispersion in bacterial swarms”" /><published>2022-05-09T00:00:00+00:00</published><updated>2023-03-10T03:44:45+00:00</updated><id>/metabio/2022/05/09/post-7</id><content type="html" xml:base="/metabio/2022/05/09/post-7.html"><![CDATA[<p>We are glad to inform our next open seminar at the Instituto de Física da UFRJ, room A327 on May 9th, 2022 at 3 pm.</p>
+
+<p><a href="https://twitter.com/RodrigoCVCoelh1">Dr. Rodrigo C. V. Coelho</a> from the Centro de Física Teórica e Computacional, Faculdade de Ciências, Universidade de Lisboa, Portugal will present the talk “Nutrients dispersion in bacterial swarms”.</p>
+
+<p>Efficient nutrient mixing is crucial for the survival of bacterial colonies and other living systems. This raises the question of whether the optimization of mixing through the emergence of active turbulent motion in bacterial swarms played a role in the evolution of bacterial shapes. To address this question, we solve the hydrodynamic equation for active nematics to model the bacterial swarms coupled to an advection-diffusion equation for the activity field, which is proportional to the concentration of nutrients. At the interface between active and passive nematics the activity field is transported by the interfacial flows and in turn it modifies them through the generation of active stresses. We find that the dispersion of this conserved activity field is subdiffusive due to the emergence of a barrier of negative defects at the active-passive interface, which hinders the propagation of the motile positive defects. Furthermore, we find a non-monotonic dependence of the generalized diffusion coefficient on the aligning parameter of the active nematics model, which is related to the shape of the particles. The results of our simulations suggest that there is an optimal shape that maximizes the dispersion of the conserved activity field at an active-passive nematic interface.</p>
+
+<figure class="figure">
+  <a class="fix_image">
+    <img src="/images/PalestraRodrigoImagem1.png" style="width: 560px;" loading="lazy" />
+    </a>
+</figure>
+<p>Figure 1. Dispersion of activity.</p>
+
+<p>References:
+[1] <a href="https://arxiv.org/abs/2201.09810">Rodrigo C. V. Coelho, Nuno A. M. Araújo, Margarida M. Telo da Gama, arXiv:2201.09810 (2022)</a>.
+[2] <a href="https://pubmed.ncbi.nlm.nih.gov/32301453/">Rodrigo C. V. Coelho, Nuno A. M. Araújo, Margarida M. Telo da Gama, Soft Matter, 16, 4256-4266 (2020)</a>.</p>]]></content><author><name>Fernanda Hansen P. de Moraes</name></author><category term="events" /><summary type="html"><![CDATA[We are glad to inform our next open seminar at the Instituto de Física da UFRJ, room A327 on May 9th, 2022 at 3 pm.]]></summary></entry><entry><title type="html">Novo laboratório</title><link href="/metabio/2022/03/14/post-6.html" rel="alternate" type="text/html" title="Novo laboratório" /><published>2022-03-14T00:00:00+00:00</published><updated>2023-03-10T03:44:45+00:00</updated><id>/metabio/2022/03/14/post-6</id><content type="html" xml:base="/metabio/2022/03/14/post-6.html"><![CDATA[<p>Semana passada tivemos a oportunidade de nos reencontramos pessoalmente e conhecer as instalacoes do futuro novo laboratório no prédio novo do Insituto de Física na Universidade Federal do Rio de Janeiro.</p>
+
+<figure class="figure">
+  <a class="fix_image">
+    <img src="/images/labtimenovo.jpeg" style="width: 560px;" loading="lazy" />
+    </a>
+</figure>
+
+<p>Ansiosos por um retorno seguro para todos!</p>]]></content><author><name>Fernanda Hansen P. de Moraes</name></author><category term="day-to-day" /><summary type="html"><![CDATA[Semana passada tivemos a oportunidade de nos reencontramos pessoalmente e conhecer as instalacoes do futuro novo laboratório no prédio novo do Insituto de Física na Universidade Federal do Rio de Janeiro.]]></summary></entry><entry><title type="html">Comment on new preprint “Establishing a baseline for human cortical folding morphological variables</title><link href="/metabio/2022/03/13/post-5.html" rel="alternate" type="text/html" title="Comment on new preprint “Establishing a baseline for human cortical folding morphological variables" /><published>2022-03-13T00:00:00+00:00</published><updated>2023-03-10T03:44:45+00:00</updated><id>/metabio/2022/03/13/post-5</id><content type="html" xml:base="/metabio/2022/03/13/post-5.html"><![CDATA[<p>Our most recent preprint and <em>in submission</em> manuscript is one of the manuscripts from <a href="fernanda-moraes">Fernanda Hansen P. de Moraes</a> PhD Thesis.
+The full text is available in <a href="https://www.medrxiv.org/content/10.1101/2022.03.10.22272228">medRxiv</a>. Here are some comments on it.</p>
+
+<p>In this manuscript, we aimed to solve issues regarding the model’s fundamental aspects to human applications. After being proved that: i) cortical folding follows a universal rule for mammals; ii) this universal rule is still valid for humans, and iii) even in smaller parts of the brain; we demonstrated in Manuscript 1 that the variable extracted from this model is a valuable neurodegeneration biomarker, and it translates with reasonable sensitivity brain structural alterations.</p>
+
+<p>Hereafter, we aimed to characterize the model’s typical values for humans during the human lifespan. Characterizing typical values is extremely important for a novel variable to help other studies test their hypothesis. Despite this, it is a challenging task. To characterize the typical human lifespan in morphometrical variables, here K, S, and I, one needs to provide general values that could be used by most of the studies. The simplest way to achieve this is by including the most extensive number of subjects possible.</p>
+
+<p>Consequently, we will have structural MRI samples from different study sites, equipment, acquisition protocols, and lifestyle factors that could imply differences in the measured brain structure. All the heterogeneity from the, at least, different acquisition and processing methods and material imply more uncertainty on the typical value evaluation. Therefore, we propose in this manuscript three major results:</p>
+<ol>
+  <li>The estimative of typical values for K, S, and I during the human lifespan. As a practical application, compare rate changes between Cognitive Unimpaired Controls, Alzheimer’s Disease and Mild Cognitive Impairment.</li>
+  <li>We estimated the uncertainties related to the morphological variables from methodological heterogeneity, repeated measures, and natural uncertainties in our species (natural fluctuation of values in the typical space).</li>
+  <li>A straightforward method of harmonization multiple samples from different sites. It reduces the variability of the methodological heterogeneity and allows direct generalization to a broad set of morphological variables.</li>
+</ol>
+
+<p>The impact of these fundamental aspects of the cortical folding model is beyond the apparent simplicity of the initial task. From the typical values, we can estimate K, S, and I with high confidence from an artificial sample in case of control subjects lack. From the uncertainties, we described the model limitations. With the estimated limitations, we are now confident to compare groups with subtle changes in brain structure. For example, enriched samples of subjects with a genetic predisposition to psychopathological events or estimate the conversion of Mild Cognitive Impairment to Alzheimer’s Disease. Further, the harmonization procedure extends our possibilities. It permits direct applications as combining different samples to increase the statistical power in hypothesis testing and estimating Type II errors of different acquisition protocols at the same equipment or similar protocols on different equipment.</p>
+
+<p>Finally, we expect future studies to describe typical values for newborns, children, teens, and early adulthood, evaluate the improvement of the harmonization procedure with high-order functions, and reproduce the estimation of the typical values with longitudinal data.</p>
+
+<p>The code used for the analysis in this manuscript is available on this GitHub.</p>]]></content><author><name>Fernanda Hansen P. de Moraes</name></author><category term="publications" /><summary type="html"><![CDATA[Our most recent preprint and in submission manuscript is one of the manuscripts from Fernanda Hansen P. de Moraes PhD Thesis. The full text is available in medRxiv. Here are some comments on it.]]></summary></entry><entry><title type="html">Comment on new preprint “Independent morphological variables correlate with Aging, Mild Cognitive Impairment, and Alzheimer’s Disease”</title><link href="/metabio/2022/01/17/post-4.html" rel="alternate" type="text/html" title="Comment on new preprint “Independent morphological variables correlate with Aging, Mild Cognitive Impairment, and Alzheimer’s Disease”" /><published>2022-01-17T00:00:00+00:00</published><updated>2023-03-10T03:44:45+00:00</updated><id>/metabio/2022/01/17/post-4</id><content type="html" xml:base="/metabio/2022/01/17/post-4.html"><![CDATA[<p>Our most recent preprint and <em>in submission</em> manuscript is one of the manuscripts from <a href="fernanda-moraes">Fernanda Hansen P. de Moraes</a> PhD Thesis.
+The full text is available in <a href="https://www.medrxiv.org/content/10.1101/2022.01.10.22268812">medRxiv</a>. Here are some comments on it.</p>
+
+<p>In this manuscript, our goal was to suggest the recently proposed variable K as a new biomarker of brain structure. Our choice was to apply it in an Alzheimer’s Disease study. Alzheimer’s Disease has a particular, but not uncommon, type of brain plasticity: neurodegeneration.</p>
+
+<p>In neurodegenerative diseases, and in a certain way also in aging, the brain tends to become less folded. The less folded aspect can be derived from the loss of neurons, demyelination, and other events. In Alzheimer’s Disease and aging, these destructive events will probably reduce the cortical thickness when affecting the gray matter. An easier way to see how the thinner cortical thickness leads to a less folded brain is to see how the sulci get more profound and more prominent while gyri get thinner.</p>
+
+<p>Also, the now looser white matter, due to the demyelination, according to the cortical folding model, would make the brain less folded since the model states the axon tension pulls white matter and consequently the cortex to the folded shape. At a glance, Alzheimer’s Disease, beyond being the most common dementia worldwide, was the perfect human brain plasticity to verify if the model would have practical and further clinical application.</p>
+
+<p>Thereby, we first proved that the subjects followed the universal rule. Otherwise, using K, dependent on the model fit, would be useless. Further, we investigated, with a known biomarker analysis, optimal cut-off, if we could discriminate Healthy Cognitive Unimpaired Controls from subjects with Alzheimer’s Disease, or its less preclinical stage, Mild Cognitive Impairment. We also compared if the discriminating power of K would be at least comparable and similar to cortical thickness. Moreover, we verified if brain areas, more affected by Alzheimer’s Disease, the temporal lobe, would have higher discriminating power than other regions, as the whole hemisphere (too general) and other lobes.</p>
+
+<p>Beyond, we investigated the correlation between K and CSF biomarkers of Alzheimer’s Disease and clinical evaluations. We wanted to verify if a less folded brain (regardless of the Diagnostic) would be related to the worst score in memory tests, cognitive indexes, or higher concentration of Amyloid plaques and tau tangles.</p>
+
+<p>The results lead to secondary and still open questions. <a href="https://www.pnas.org/content/113/45/12820">Wang et al. 2016</a> proposed it was easier to discriminate Alzheimer’s Disease from healthy aging in younger adults. We could not confirm or discard this hypothesis. Moreover, our sample does not fit the model as expected. When say fitting the model, we expect our subjects to be lined up in a line in which the slope would be equal to the theoretical value of <a href="https://www.science.org/doi/10.1126/science.aaa9101">1.25</a> or closer to the <a href="https://www.pnas.org/content/113/45/12820">previous publications</a>. Neither happened, besides our validations with open access datasets (Supplementary Information of Manuscript). We propose the slope, until here considered a constant, is affected by aging.</p>
+
+<p>We believe this work will contribute to Alzheimer’s Disease and neurodegenerative pathologies. It is the first work to use complex structural variables to characterize the brain damage caused by such diseases. Further, K, as maybe, a combination of K, S, and I, will provide additional information by facilitating healthy aging and neurodegeneration pathologies discrimination.</p>
+
+<p>The code used for the analysis in this manuscript is available on metaBIO’s GitHub (https://github.com/metaBIOlab/CorticalFolding_AD_Aging).</p>]]></content><author><name>Fernanda Hansen P. de Moraes</name></author><category term="publications" /><summary type="html"><![CDATA[Our most recent preprint and in submission manuscript is one of the manuscripts from Fernanda Hansen P. de Moraes PhD Thesis. The full text is available in medRxiv. Here are some comments on it.]]></summary></entry><entry><title type="html">SICB 2022 meeting - Kamilla Souza</title><link href="/metabio/2021/12/16/post-3.html" rel="alternate" type="text/html" title="SICB 2022 meeting - Kamilla Souza" /><published>2021-12-16T00:00:00+00:00</published><updated>2023-03-10T03:44:45+00:00</updated><id>/metabio/2021/12/16/post-3</id><content type="html" xml:base="/metabio/2021/12/16/post-3.html"><![CDATA[<p>Our PhD student, <a href="kamilla-souza">Kamilla Souza</a> was in <a href="https://burkclients.com/sicb/meetings/2022/site/">Society for Integrative and Comparative Biology (SICB)</a> meeting in 2022, Phoenix, Arizona, USA. She presented on Tuesday (04/01/2022) her entire work (poster P1-101): Multiparametric Comparative Analysis on Structure and Cellular Composition of Cetacean Brains.</p>
+
+<figure class="figure">
+  <a class="fix_image">
+    <img src="/images/kamilla_poster.jpeg" style="width: 560px;" loading="lazy" />
+    </a>
+</figure>
+<p>
+  The next step is the presentation at the SICB+, the on-line version of this meeting, for those who couldn't be at SICB held in Phoenix, Az.
+</p>
+<p>
+Here is a brief video created by Heitor, a co-author of Kamilla’s poster. It’s a comparison of an old 3D model reconstruction with ours newer and more accurate one.
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-C1S_U01IgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<script type="text/javascript">
+    function showHide() {
+    var x = document.getElementById('loadingImage');
+    if (x.style.display == 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+
+<p><a href="javascript:void(0)" onclick="showHide()">Show supplementary data</a></p>
+
+<div id="loadingImage" style="display:none">
+  <div class="gallery" data-style="" data-number="2"><a href="https://pubmed.ncbi.nlm.nih.gov/26138976/" class="gallery_item" data-tooltip="Mota &amp; Herculano-Houzel 2015">
+        <img src="/metabio/images/UniversalRule+Cet.jpeg" loading="lazy" />
+      </a><a class="gallery_item" data-tooltip="Blue: old method; Pink: new method">
+        <img src="/metabio/images/MetodosComparacao.jpeg" loading="lazy" />
+      </a></div>
+
+  <br />
+    <div class="" text-align="justify" text-justify="inter-word">
+      <p>
+    Cortices in land mammals follow a universal scaling rule. Cetaceans follow a similar rule, which in the old method (light-blue data points on the right side image) appeared to be offset from land mammals in general and artiodactyl in particular.
+       </p>
+    </div>
+  </div>]]></content><author><name>Kamilla Souza</name></author><category term="events" /><summary type="html"><![CDATA[Our PhD student, Kamilla Souza was in Society for Integrative and Comparative Biology (SICB) meeting in 2022, Phoenix, Arizona, USA. She presented on Tuesday (04/01/2022) her entire work (poster P1-101): Multiparametric Comparative Analysis on Structure and Cellular Composition of Cetacean Brains.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/metabio/images/Kamilla+cerebro.jpeg" /><media:content medium="image" url="/metabio/images/Kamilla+cerebro.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example post 2</title><link href="/metabio/2021/09/30/example-post-2.html" rel="alternate" type="text/html" title="Example post 2" /><published>2021-09-30T00:00:00+00:00</published><updated>2023-03-10T03:44:45+00:00</updated><id>/metabio/2021/09/30/example-post-2</id><content type="html" xml:base="/metabio/2021/09/30/example-post-2.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>jane-smith</name></author><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry></feed>
