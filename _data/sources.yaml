@@ -1,3 +1,15 @@
+
+- id: doi:10.1007/s12021-024-09678-2
+  title: Stitcher: A Surface Reconstruction Tool for Highly Gyrified Brains
+  date: 2024-10-10
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/article/10.1007/s12021-024-09678-2
+  tags:
+    - computational methods
+    - brain morphology
+    - cortical folding
+  
 - id: doi:10.1016/j.neuroimage.2020.117546
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811920310314-gr3_lrg.jpg
   date: 2021-2-1
