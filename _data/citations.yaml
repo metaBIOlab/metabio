@@ -1,5 +1,24 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1007/s12021-024-09678-2
+  title: 'Stitcher: A Surface Reconstruction Tool for Highly Gyrified Brains'
+  authors:
+  - Heitor Mynssen
+  - Kamilla Avelino-de-Souza
+  - Khallil Chaim
+  - Vanessa Lanes Ribeiro
+  - Nina Patzke
+  - Bruno Mota
+  publisher: Neuroinformatics
+  date: 1900-1-1
+  link: https://doi.org/g7xj4z
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.1007/s12021-024-09678-2
+  tags:
+  - computational methods
+  - brain morphology
+  - cortical folding
 - id: doi:10.1016/j.neuroimage.2020.117546
   title: Independent components of human brain morphology
   authors:
