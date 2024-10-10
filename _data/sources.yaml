@@ -1,11 +1,15 @@
 
 - id: doi:10.1007/s12021-024-09678-2
-  date: 2024-10-10
+  date: "2024-10-10"
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs12021-024-09678-2/MediaObjects/12021_2024_9678_Fig6_HTML.png
   extra-links:
     - type: journal
       link: https://link.springer.com/article/10.1007/s12021-024-09678-2
+    - type: source
+      link: https://github.com/hmynssen/Stitcher
   tags:
     - computational methods
+    - compared neuroanatomy
     - brain morphology
     - cortical folding
   
