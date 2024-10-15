@@ -1,5 +1,32 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.7554/eLife.92080.4
+  title: Neuro-evolutionary evidence for a universal fractal primate brain shape
+  authors:
+  - Yujiang Wang
+  - Karoline Leiberg
+  - Nathan Kindred
+  - Christopher R Madan
+  - Colline Poirier
+  - Christopher I Petkov
+  - Peter Neal Taylor
+  - Bruno Mota
+  publisher: eLife
+  date: 1900-1-1
+  link: https://doi.org/g8f387
+  image: https://iiif.elifesciences.org/lax:92080%2Felife-92080-fig2-v1.tif/full/1500,/0/default.jpg
+  extra-links:
+  - type: journal
+    link: https://elifesciences.org/articles/92080
+  - type: source
+    link: https://github.com/cnnp-lab/CorticalFoldingAnalysisTools
+  - type: source
+    link: https://github.com/cnnp-lab/2024_Folding_scales
+  tags:
+  - computational methods
+  - compared neuroanatomy
+  - brain morphology
+  - cortical folding
 - id: doi:10.1007/s12021-024-09678-2
   title: 'Stitcher: A Surface Reconstruction Tool for Highly Gyrified Brains'
   authors:
