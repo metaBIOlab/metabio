@@ -1,3 +1,19 @@
+- id: doi:10.7554/eLife.92080.4
+  date: "2024-30-09"
+  image: https://iiif.elifesciences.org/lax:92080%2Felife-92080-fig2-v1.tif/full/1500,/0/default.jpg
+  extra-links:
+    - type: journal
+      link: https://elifesciences.org/articles/92080
+    - type: source
+      link: https://github.com/cnnp-lab/CorticalFoldingAnalysisTools
+    - type: source
+      link: https://github.com/cnnp-lab/2024_Folding_scales
+  tags:
+    - computational methods
+    - compared neuroanatomy
+    - brain morphology
+    - cortical folding
+
 
 - id: doi:10.1007/s12021-024-09678-2
   date: "2024-10-10"
