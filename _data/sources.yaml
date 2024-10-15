@@ -6,8 +6,6 @@
       link: https://elifesciences.org/articles/92080
     - type: source
       link: https://github.com/cnnp-lab/CorticalFoldingAnalysisTools
-    - type: source
-      link: https://github.com/cnnp-lab/2024_Folding_scales
   tags:
     - computational methods
     - compared neuroanatomy
