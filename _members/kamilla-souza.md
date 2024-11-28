@@ -2,7 +2,7 @@
 name: Kamilla Souza
 image: images/Kamilla.jpg
 description: Biologist
-role: phd
+role: postdoc
 aliases:
   - K. Souza
   - K Souza
