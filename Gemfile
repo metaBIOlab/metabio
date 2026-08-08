@@ -8,6 +8,8 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from"
   gem "jekyll-feed"
   gem "jekyll-sitemap"
+  gem "csv"
+  gem "logger"
 
   # other potentially useful plugins
   # gem "jekyll-github-metadata"

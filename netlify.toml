@@ -1,0 +1,3 @@
+[build]
+  command = "sed -i 's/baseurl:.*/baseurl: \"\"/' _config.yaml && bundle exec jekyll build"
+  publish = "_site"
