@@ -10,6 +10,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "csv"
   gem "logger"
+  gem "base64"
 
   # other potentially useful plugins
   # gem "jekyll-github-metadata"
