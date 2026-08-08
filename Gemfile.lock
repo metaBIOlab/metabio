@@ -4,19 +4,23 @@ GEM
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     base64 (0.3.0)
+    bigdecimal (4.1.2)
     colorator (1.1.0)
     concurrent-ruby (1.1.8)
     csv (3.3.6)
+    drb (2.2.3)
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
     ffi (1.15.0)
     ffi (1.15.0-x64-mingw32)
+    forwardable (1.4.0)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (1.8.10)
       concurrent-ruby (~> 1.0)
+    ipaddr (1.2.9)
     jekyll (4.2.0)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -52,19 +56,31 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     logger (1.7.0)
     mercenary (0.4.0)
+    mutex_m (0.3.0)
+    nkf (0.3.0)
+    observer (0.1.2)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.7)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
+    resolv (0.7.1)
+    resolv-replace (0.2.0)
+      resolv
     rexml (3.4.2)
+    rinda (0.2.0)
+      drb
+      forwardable
+      ipaddr
     rouge (3.26.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
     sassc (2.4.0-x64-mingw32)
       ffi (~> 1.9)
+    syslog (0.4.0)
+      logger
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
@@ -74,6 +90,7 @@ GEM
       tzinfo (>= 1.0.0)
     unicode-display_width (1.7.0)
     wdm (0.1.1)
+    webrick (1.9.2)
 
 PLATFORMS
   x64-mingw-ucrt
@@ -82,15 +99,24 @@ PLATFORMS
 
 DEPENDENCIES
   base64
+  bigdecimal
   csv
+  drb
   jekyll
   jekyll-feed
   jekyll-redirect-from
   jekyll-sitemap
   logger
+  mutex_m
+  nkf
+  observer
+  resolv-replace
+  rinda
+  syslog
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
+  webrick
 
 BUNDLED WITH
   4.0.18

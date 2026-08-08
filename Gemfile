@@ -9,8 +9,17 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-sitemap"
   gem "csv"
-  gem "logger"
   gem "base64"
+  gem "bigdecimal"
+  gem "drb"
+  gem "mutex_m"
+  gem "nkf"
+  gem "observer"
+  gem "resolv-replace"
+  gem "rinda"
+  gem "syslog"
+  gem "logger"
+  gem "webrick"
 
   # other potentially useful plugins
   # gem "jekyll-github-metadata"
