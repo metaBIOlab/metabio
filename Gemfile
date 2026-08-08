@@ -1,26 +1,27 @@
 source "https://rubygems.org"
 
 # jekyll
-gem "jekyll"
+gem "jekyll", "~> 4.3.4"
+
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "drb"
+gem "mutex_m"
+gem "nkf"
+gem "observer"
+gem "resolv-replace"
+gem "rinda"
+gem "syslog"
+gem "logger"
+gem "webrick"
+
 
 # plugins
 group :jekyll_plugins do
   gem "jekyll-redirect-from"
   gem "jekyll-feed"
   gem "jekyll-sitemap"
-  gem "csv"
-  gem "base64"
-  gem "bigdecimal"
-  gem "drb"
-  gem "mutex_m"
-  gem "nkf"
-  gem "observer"
-  gem "resolv-replace"
-  gem "rinda"
-  gem "syslog"
-  gem "logger"
-  gem "webrick"
-
   # other potentially useful plugins
   # gem "jekyll-github-metadata"
   # gem 'jekyll-avatar'
